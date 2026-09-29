@@ -1,33 +1,8 @@
-# APP Digital — 3.0 Documentation
+# APP Digital 3.0 Docs — Source Repo
 
-> 🚧 **Mock placeholder** — this homepage layout is for review with Nemanja/James before final content is dropped in.
+This repository is Git-Synced into GitBook (Site: **APP 3.0 Docs**). It is structured as one directory per GitBook Space, described by [`gitbook-docs.yaml`](./gitbook-docs.yaml).
 
-Welcome to the APP Digital Program 3.0 documentation hub.
+- `home/` — homepage content (Space: Home)
+- `getting-started/`, `cx-guidelines/`, `npi-operations/`, `analytics/`, `theme-release/`, `features-functionality/`, `support/`, `about-us/` — one GitBook Space per left-nav section
 
-## Search
-
-Search is automatic and indexes every published page. No manual upkeep required — nothing to maintain here as content is added or renamed.
-
-## Quick Start
-
-One generic entry point per left-nav section. These are evergreen — only touch this list if a left-nav section is added, renamed, or removed.
-
-| | |
-|---|---|
-| 🚀 [Getting Started](getting-started/README.md) | 🎨 [CX Guidelines](cx-guidelines/README.md) |
-| 📦 [NPI Operations](npi-operations/README.md) | 📊 [Analytics](analytics/README.md) |
-| 🧩 [Theme Release](theme-release/README.md) | ⚙️ [Features & Functionality](features-functionality/README.md) |
-| 🛟 [Support](support/README.md) | ℹ️ [About Us](about-us/README.md) |
-
-## Recently Updated
-
-> ⚠️ **Open question (flagged for Nemanja):** GitBook does not natively expose an auto-populated "last N updated pages" feed/widget on a custom page. Confirm before committing to this section — options are (a) a manually maintained short list, or (b) pulling last-edited dates via the GitBook API into an external embed. Placeholder below assumes option (a) until decided.
-
-_TODO: last 5 updated articles, maintained manually until the above is resolved._
-
-## Need Help?
-
-- 🎫 [File a support ticket](#) — _TODO: link to real ticketing system_
-- ✏️ [Request new content](#) — _TODO: link to real content-request form_
-
-Static section — only touch if the linked process or form changes.
+Each space directory has its own `SUMMARY.md` controlling that space's internal page order. Edit content directly here and push to `main`, or edit in the GitBook UI if bidirectional sync is enabled — either way stays in sync.
