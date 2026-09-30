@@ -3,58 +3,112 @@ version: 1
 site:
   title: APP Digital — 3.0 Documentation
   structure:
-    - type: space
-      key: space-home
+    - type: section
+      key: section-home
       title: Home
       path: home
       default: true
-      content:
-        directory: ./home
-    - type: space
-      key: space-getting-started
+      children:
+        - type: space
+          key: space-home
+          title: Home
+          path: overview
+          default: true
+          content:
+            directory: ./home
+    - type: section
+      key: section-getting-started
       title: Getting Started
       path: getting-started
-      content:
-        directory: ./getting-started
-    - type: space
-      key: space-cx-guidelines
+      children:
+        - type: space
+          key: space-getting-started
+          title: Getting Started
+          path: overview
+          default: true
+          content:
+            directory: ./getting-started
+    - type: section
+      key: section-cx-guidelines
       title: CX Guidelines
       path: cx-guidelines
-      content:
-        directory: ./cx-guidelines
-    - type: space
-      key: space-npi-operations
+      children:
+        - type: space
+          key: space-cx-guidelines
+          title: CX Guidelines
+          path: overview
+          default: true
+          content:
+            directory: ./cx-guidelines
+    - type: section
+      key: section-npi-operations
       title: NPI Operations
       path: npi-operations
-      content:
-        directory: ./npi-operations
-    - type: space
-      key: space-analytics
+      children:
+        - type: space
+          key: space-npi-operations
+          title: NPI Operations
+          path: overview
+          default: true
+          content:
+            directory: ./npi-operations
+    - type: section
+      key: section-analytics
       title: Analytics
       path: analytics
-      content:
-        directory: ./analytics
-    - type: space
-      key: space-theme-release
+      children:
+        - type: space
+          key: space-analytics
+          title: Analytics
+          path: overview
+          default: true
+          content:
+            directory: ./analytics
+    - type: section
+      key: section-theme-release
       title: Theme Release
       path: theme-release
-      content:
-        directory: ./theme-release
-    - type: space
-      key: space-features-functionality
+      children:
+        - type: space
+          key: space-theme-release
+          title: Theme Release
+          path: overview
+          default: true
+          content:
+            directory: ./theme-release
+    - type: section
+      key: section-features-functionality
       title: Features & Functionality
       path: features-functionality
-      content:
-        directory: ./features-functionality
-    - type: space
-      key: space-support
+      children:
+        - type: space
+          key: space-features-functionality
+          title: Features & Functionality
+          path: overview
+          default: true
+          content:
+            directory: ./features-functionality
+    - type: section
+      key: section-support
       title: Support
       path: support
-      content:
-        directory: ./support
-    - type: space
-      key: space-about-us
+      children:
+        - type: space
+          key: space-support
+          title: Support
+          path: overview
+          default: true
+          content:
+            directory: ./support
+    - type: section
+      key: section-about-us
       title: About Us
       path: about-us
-      content:
-        directory: ./about-us
+      children:
+        - type: space
+          key: space-about-us
+          title: About Us
+          path: overview
+          default: true
+          content:
+            directory: ./about-us
