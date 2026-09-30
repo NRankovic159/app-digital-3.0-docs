@@ -1,7 +1,5 @@
 # APP Digital — 3.0 Documentation
 
-> 🚧 **Mock placeholder** — this homepage layout is for review with Nemanja/James before final content is dropped in.
-
 Welcome to the APP Digital Program 3.0 documentation hub.
 
 ## Search
