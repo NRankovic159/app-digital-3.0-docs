@@ -22,7 +22,7 @@ One generic entry point per left-nav section. These are evergreen — only touch
 
 ## Need Help?
 
-- 🎫 [File a support ticket](#) — _TODO: link to real ticketing system_
-- ✏️ [Request new content](#) — _TODO: link to real content-request form_
+- 🎫 [File a support ticket](#) _TODO: link to real ticketing system_
+- ✏️ [Request new content](#) _TODO: link to real content-request form_
 
 Static section — only touch if the linked process or form changes.
