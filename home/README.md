@@ -15,9 +15,10 @@ One generic entry point per left-nav section. These are evergreen — only touch
 
 ## Recently Updated
 
-> ⚠️ **Open question (flagged for Nemanja):** GitBook does not natively expose an auto-populated "last N updated pages" feed/widget on a custom page. Confirm before committing to this section — options are (a) a manually maintained short list, or (b) pulling last-edited dates via the GitBook API into an external embed. Placeholder below assumes option (a) until decided.
-
-_TODO: last 5 updated articles, maintained manually until the above is resolved._
+1. [\[3.0\] Features and Functionality](/features-functionality)
+2. [\[3.0\] New Features](new-features-3-0.md)
+3. [\[3.0\] Mobile Search](mobile-search-3-0.md)
+4. [\[3.0\] Energy Label](energy-label-3-0.md)
 
 ## Need Help?
 
