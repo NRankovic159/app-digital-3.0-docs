@@ -2,10 +2,6 @@
 
 Welcome to the APP Digital Program 3.0 documentation hub.
 
-## Search
-
-Search is automatic and indexes every published page. No manual upkeep required — nothing to maintain here as content is added or renamed.
-
 ## Quick Start
 
 One generic entry point per left-nav section. These are evergreen — only touch this list if a left-nav section is added, renamed, or removed.
