@@ -1,11 +1,9 @@
 # Release Notes
 
-> 🚧 **Mock placeholder** — structure and headings are final for review; body copy is TBD for 3.0 launch.
+## Versions
 
-## 3.0 (current)
+- [3.0 Theme Release Notes](release-notes-3-0.md)
+- [2.8 Theme Release Notes](release-notes-2-8.md)
+- [2.7 Theme Release Notes](release-notes-2-7.md)
+- [2.4 Theme Release Notes](release-notes-2-4.md)
 
-_TODO: add 3.0 content._
-
-## Previous versions
-
-_TODO: add 3.0 content._
