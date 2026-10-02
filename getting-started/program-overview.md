@@ -1,8 +1,8 @@
 # Program Overview & Documentation Structure
 
-**Applies to:** Shopify / CX-S / Both
-
-_(Update per-topic if a page is Shopify-only or CX-S-only.)_
+{% hint style="info" %}
+**Applies to:** Shopify / CX-S / Both — _(update per-topic if a page is Shopify-only or CX-S-only)_
+{% endhint %}
 
 This post helps explain a bit more about the APP Digital Program structure as well as the structure of this documentation hub aimed to support you through each phase of the program.
 

@@ -1,8 +1,8 @@
 # Resources & Links
 
-**Applies to:** Shopify / CX-S / Both
-
-_(Update per-topic if a page is Shopify-only or CX-S-only.)_
+{% hint style="info" %}
+**Applies to:** Shopify / CX-S / Both — _(update per-topic if a page is Shopify-only or CX-S-only)_
+{% endhint %}
 
 Links to vital resources for APPs who are getting started with the program. Make sure to bookmark these links as you will be referencing them often!
 

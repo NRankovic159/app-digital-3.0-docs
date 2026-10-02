@@ -1,18 +1,26 @@
 # Integration Setup (Shopify API vs. Flat File)
 
-**Applies to:** Shopify / CX-S / Both
+{% hint style="info" %}
+**Applies to:** Shopify / CX-S / Both — _(update per-topic if a page is Shopify-only or CX-S-only)_
+{% endhint %}
 
-_(Update per-topic if a page is Shopify-only or CX-S-only.)_
+{% hint style="warning" %}
+🚧 **Mock placeholder** — structure and headings are final for review; body copy is TBD for 3.0 launch.
+{% endhint %}
 
-> 🚧 **Mock placeholder** — structure and headings are final for review; body copy is TBD for 3.0 launch.
+## Integration Paths
 
-## Shopify API path
+{% tabs %}
 
-_TODO: add 3.0 content._
+{% tab title="Shopify API" icon="shopify" %}
+_TODO: add 3.0 content for the Shopify API integration path._
+{% endtab %}
 
-## Flat File path
+{% tab title="Flat File" icon="file" %}
+_TODO: add 3.0 content for the Flat File integration path._
+{% endtab %}
 
-_TODO: add 3.0 content._
+{% endtabs %}
 
 ## Choosing the right path
 
