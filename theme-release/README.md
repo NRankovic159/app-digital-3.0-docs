@@ -1,9 +1,5 @@
 # Theme Release
 
-{% hint style="warning" %}
-🚧 **Mock placeholder** — structure and headings are final for review; body copy is TBD for 3.0 launch.
-{% endhint %}
-
 Version-by-version release notes, migration/upgrade guides, and deprecation notices.
 
 ## In this section
