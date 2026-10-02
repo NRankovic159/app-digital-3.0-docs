@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Overview](README.md)
+* [Program Overview & Documentation Structure](program-overview.md)
+* [Resources & Links](resources-links.md)
 * [Onboarding Checklist](onboarding-checklist.md)
 * [Integration Setup (Shopify API vs. Flat File)](integration-setup.md)
 * [Access & Account Provisioning](access-provisioning.md)
