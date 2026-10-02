@@ -18,4 +18,6 @@ _TODO: list individual feature articles once split out (this landing page curren
 
 ## Change Log
 
-See [Change Log](changelog.md) for version history on this capability area.
+| Version | Date | Change | Notes |
+|---|---|---|---|
+| 3.0 | TBD | Initial 3.0 entry | Placeholder |
