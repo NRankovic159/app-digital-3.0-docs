@@ -4,8 +4,6 @@ Welcome to the APP Digital Program 3.0 documentation hub.
 
 ## Quick Start
 
-One generic entry point per left-nav section. These are evergreen — only touch this list if a left-nav section is added, renamed, or removed.
-
 <table data-view="cards">
 <thead>
 <tr>
