@@ -1,2 +1,5 @@
 _preview/
 build_preview.py
+_design-variants/
+build_preview_apple_com.py
+build_preview_apple_cx.py
