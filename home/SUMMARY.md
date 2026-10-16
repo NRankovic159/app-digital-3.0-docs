@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Overview](README.md)
+* [APP Digital — 3.0 Documentation](README.md)

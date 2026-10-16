@@ -2,6 +2,55 @@
 
 Welcome to the APP Digital Program 3.0 documentation hub.
 
+{% hint style="info" %}
+**4 new announcements** — see [Recently Updated](#recently-updated) below for the latest 3.0 additions.
+{% endhint %}
+
+## At a Glance
+
+<table data-view="cards">
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th data-hidden data-card-target data-type="content-ref"></th>
+<th data-hidden data-card-cover data-type="files"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>4 · All Theme Releases</strong></td>
+<td>Versions documented</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>15 · Capability Areas</strong></td>
+<td>Features &amp; Functionality topics</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>9 · Documentation Sections</strong></td>
+<td>Top-level sections in the hub</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>62 · Total Pages</strong></td>
+<td>Across the whole hub</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><strong>8 · Getting Started Resources</strong></td>
+<td>Onboarding articles</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## Quick Start
 
 <table data-view="cards">
@@ -79,25 +128,25 @@ Welcome to the APP Digital Program 3.0 documentation hub.
 <tbody>
 <tr>
 <td><strong>[3.0] Features and Functionality</strong></td>
-<td>Capability-area landing pages and change logs for all 15 topics are now live.</td>
+<td>October 2026 — Capability-area landing pages and change logs for all 15 topics are now live.</td>
 <td><a href="/features-functionality">/features-functionality</a></td>
 <td></td>
 </tr>
 <tr>
 <td><strong>[3.0] New Features</strong></td>
-<td>Overview of net-new capabilities introduced in the 3.0 release.</td>
+<td>October 2026 — Overview of net-new capabilities introduced in the 3.0 release.</td>
 <td><a href="new-features-3-0.md">new-features-3-0.md</a></td>
 <td></td>
 </tr>
 <tr>
 <td><strong>[3.0] Mobile Search</strong></td>
-<td>Updated guidance on mobile search behavior for 3.0.</td>
+<td>September 2026 — Updated guidance on mobile search behavior for 3.0.</td>
 <td><a href="mobile-search-3-0.md">mobile-search-3-0.md</a></td>
 <td></td>
 </tr>
 <tr>
 <td><strong>[3.0] Energy Label</strong></td>
-<td>New compliance guidance for energy label requirements.</td>
+<td>September 2026 — New compliance guidance for energy label requirements.</td>
 <td><a href="energy-label-3-0.md">energy-label-3-0.md</a></td>
 <td></td>
 </tr>
@@ -118,14 +167,14 @@ Welcome to the APP Digital Program 3.0 documentation hub.
 <tbody>
 <tr>
 <td><strong>🎫 File a support ticket</strong></td>
-<td>TODO: link to real ticketing system.</td>
-<td><a href="#">#</a></td>
+<td>Ticketing link coming soon.</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td><strong>✏️ Request new content</strong></td>
-<td>TODO: link to real content-request form.</td>
-<td><a href="#">#</a></td>
+<td>Request form coming soon.</td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
