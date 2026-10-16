@@ -68,6 +68,6 @@ If you're unsure which path fits your setup, raise it with your APP Digital Prog
 {% endhint %}
 
 {% hint style="warning" %}
-**Incomplete product data** — both paths reject records missing required fields. Review the [NPI Operations](../npi-operations/README.md) readiness checklists before your first sync to avoid last-minute rejections.
+**Incomplete product data** — both paths reject records missing required fields. Review the [NPI Operations](/npi-operations) readiness checklists before your first sync to avoid last-minute rejections.
 {% endhint %}
 

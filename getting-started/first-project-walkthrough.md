@@ -16,11 +16,11 @@ Make sure you've completed the following before starting your first project:
 
 1. **Pick a pilot scope** — choose a small, representative set of products or a single category to launch first
 2. **Configure in staging** — set up your pilot scope in the staging environment using your chosen integration path
-3. **Run the NPI readiness checklist** — work through the [NPI Operations](../npi-operations/README.md) readiness checklist for your pilot scope
-4. **Complete Partner UAT** — validate the pilot in staging against the [Partner UAT](../support/README.md) process
-5. **Review CX compliance** — confirm your pilot meets the [CX Guidelines](../cx-guidelines/README.md) for design, accessibility, and localization
+3. **Run the NPI readiness checklist** — work through the [NPI Operations](/npi-operations) readiness checklist for your pilot scope
+4. **Complete Partner UAT** — validate the pilot in staging against the [Partner UAT](/support) process
+5. **Review CX compliance** — confirm your pilot meets the [CX Guidelines](/cx-guidelines) for design, accessibility, and localization
 6. **Go live** — once UAT and readiness checks pass, schedule go-live with your APP Digital Program contact
-7. **Monitor in Analytics** — after go-live, use [Analytics](../analytics/README.md) to confirm completeness and performance
+7. **Monitor in Analytics** — after go-live, use [Analytics](/analytics) to confirm completeness and performance
 
 ## What good looks like
 
