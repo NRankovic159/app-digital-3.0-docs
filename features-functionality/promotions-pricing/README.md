@@ -22,11 +22,9 @@ _TODO: list individual feature articles once split out (this landing page curren
 
 _Example entries — replace with the real release history for this capability area._
 
-| Date | Version | Type | What changed |
-|---|---|---|---|
-| **July 16, 2026** | `v3.0.0` | 🟢 **ADDED** | Initial 3.0 release of Promotions & Pricing: new landing page structure, updated settings labels, and Apple-blue brand defaults (#0071e3). |
-| **April 21, 2026** | `v2.8.0` | 🔵 **CHANGED** | Promotions & Pricing settings reorganized into plain-language groups; legacy setting names replaced and retired settings confirmed. |
-| **February 10, 2026** | `v2.7.1` | 🟠 **FIXED** | Patch for Promotions & Pricing: corrected fallback behavior on mobile and resolved a label mismatch between Shopify and CX-S. |
-| **September 18, 2025** | `v2.4.0` | 🟢 **ADDED** | New configuration options for Promotions & Pricing, with separate controls for regular and business customers. |
-| **June 4, 2025** | `v2.1.0` | 🔵 **CHANGED** | Updated defaults for Promotions & Pricing and clarified guidance for partner implementations. |
-| **March 12, 2025** | `v2.0.0` | 🟢 **ADDED** | First documented version of Promotions & Pricing in the 2.x program. |
+- **July 16, 2026** · `v3.0.0` · 🟢 **ADDED** — Initial 3.0 release of Promotions & Pricing: new landing page structure, updated settings labels, and Apple-blue brand defaults (#0071e3).
+- **April 21, 2026** · `v2.8.0` · 🔵 **CHANGED** — Promotions & Pricing settings reorganized into plain-language groups; legacy setting names replaced and retired settings confirmed.
+- **February 10, 2026** · `v2.7.1` · 🟠 **FIXED** — Patch for Promotions & Pricing: corrected fallback behavior on mobile and resolved a label mismatch between Shopify and CX-S.
+- **September 18, 2025** · `v2.4.0` · 🟢 **ADDED** — New configuration options for Promotions & Pricing, with separate controls for regular and business customers.
+- **June 4, 2025** · `v2.1.0` · 🔵 **CHANGED** — Updated defaults for Promotions & Pricing and clarified guidance for partner implementations.
+- **March 12, 2025** · `v2.0.0` · 🟢 **ADDED** — First documented version of Promotions & Pricing in the 2.x program.
