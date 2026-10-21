@@ -18,6 +18,15 @@ _TODO: list individual feature articles once split out (this landing page curren
 
 ## Change Log
 
-| Version | Date | Change | Notes |
+### Feature timeline
+
+_Example entries — replace with the real release history for this capability area._
+
+| Date | Version | Type | What changed |
 |---|---|---|---|
-| 3.0 | TBD | Initial 3.0 entry | Placeholder |
+| **July 16, 2026** | `v3.0.0` | 🟢 **ADDED** | Initial 3.0 release of Business (SMB / B2B): new landing page structure, updated settings labels, and Apple-blue brand defaults (#0071e3). |
+| **April 21, 2026** | `v2.8.0` | 🔵 **CHANGED** | Business (SMB / B2B) settings reorganized into plain-language groups; legacy setting names replaced and retired settings confirmed. |
+| **February 10, 2026** | `v2.7.1` | 🟠 **FIXED** | Patch for Business (SMB / B2B): corrected fallback behavior on mobile and resolved a label mismatch between Shopify and CX-S. |
+| **September 18, 2025** | `v2.4.0` | 🟢 **ADDED** | New configuration options for Business (SMB / B2B), with separate controls for regular and business customers. |
+| **June 4, 2025** | `v2.1.0` | 🔵 **CHANGED** | Updated defaults for Business (SMB / B2B) and clarified guidance for partner implementations. |
+| **March 12, 2025** | `v2.0.0` | 🟢 **ADDED** | First documented version of Business (SMB / B2B) in the 2.x program. |
