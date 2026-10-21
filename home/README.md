@@ -6,6 +6,8 @@ Welcome to the APP Digital Program 3.0 documentation hub.
 **4 new announcements** — see [Recently Updated](./#recently-updated) below for the latest 3.0 additions.
 {% endhint %}
 
+## At a Glance
+
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>4 · All Theme Releases</strong></td><td>Versions documented</td><td></td><td></td></tr><tr><td><strong>15 · Capability Areas</strong></td><td>Features &#x26; Functionality topics</td><td></td><td></td></tr><tr><td><strong>9 · Documentation Sections</strong></td><td>Top-level sections in the hub</td><td></td><td></td></tr><tr><td><strong>62 · Total Pages</strong></td><td>Across the whole hub</td><td></td><td></td></tr><tr><td><strong>8 · Getting Started Resources</strong></td><td>Onboarding articles</td><td></td><td></td></tr></tbody></table>
 
 ## Quick Start

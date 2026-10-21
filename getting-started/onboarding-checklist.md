@@ -11,10 +11,10 @@ Work through this checklist when onboarding to the APP Digital Program. Each ite
 - [ ] [Program Overview & Documentation Structure](program-overview.md) — understand the program's 5 phases and how this hub is organized
 - [ ] [Resources & Links](resources-links.md) — bookmark the reference links you'll use throughout the program
 - [ ] [Glossary of Program Terms](glossary.md) — get familiar with program-specific terminology
-- [ ] [CX Guidelines](/cx-guidelines) — design/UX standards, accessibility, and localization requirements
-- [ ] [NPI Operations](/npi-operations) — readiness checklists and content delivery SLAs for launch
-- [ ] [Theme Release](/theme-release) — release notes for the version you're implementing
-- [ ] [Support](/support) — how to file tickets, request content, and reach the APP Digital Program team
+- [ ] [CX Guidelines](../cx-guidelines/README.md) — design/UX standards, accessibility, and localization requirements
+- [ ] [NPI Operations](../npi-operations/README.md) — readiness checklists and content delivery SLAs for launch
+- [ ] [Theme Release](../theme-release/README.md) — release notes for the version you're implementing
+- [ ] [Support](../support/README.md) — how to file tickets, request content, and reach the APP Digital Program team
 
 ## Account & technical setup
 
