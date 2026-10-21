@@ -1,6 +1,5 @@
 # Table of contents
 
-* [README](README.md)
 * [APP Digital — 3.0 Documentation](home/README.md)
 * [Getting Started](getting-started/README.md)
   * [Program Overview & Documentation Structure](getting-started/program-overview.md)
