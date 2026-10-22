@@ -6,7 +6,7 @@
 
 ## Release Notes Document
 
-{% file src=".gitbook/assets/Store-3.0-Release-Notes.docx" %}
+{% file src="../.gitbook/assets/Store-3.0-Release-Notes.docx" %}
 Store 3.0 Release Notes (example document)
 {% endfile %}
 
