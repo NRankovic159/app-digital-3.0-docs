@@ -6,7 +6,7 @@ Welcome to the APP Digital Program 3.0 documentation hub.
 **4 new announcements** — see [Recently Updated](./#recently-updated) below for the latest 3.0 additions.
 {% endhint %}
 
-![4 theme releases, 15 capability areas, 9 documentation sections, 62 total pages, 8 getting started resources](.gitbook/assets/at-a-glance.svg)
+[![4 theme releases, 15 capability areas, 9 documentation sections, 70 total pages, 8 getting started resources](.gitbook/assets/at-a-glance.svg)](./#quick-start)
 
 ## Quick Start
 
