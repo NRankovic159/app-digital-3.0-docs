@@ -6,7 +6,7 @@ Welcome to the APP Digital Program 3.0 documentation hub.
 **4 new announcements** — see [Recently Updated](./#recently-updated) below for the latest 3.0 additions.
 {% endhint %}
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td><a href=".gitbook/assets/at-a-glance.svg">at-a-glance.svg</a></td></tr></tbody></table>
+![4 theme releases, 15 capability areas, 9 documentation sections, 70 total pages, 8 getting started resources](.gitbook/assets/at-a-glance.svg)
 
 ## Quick Start
 
