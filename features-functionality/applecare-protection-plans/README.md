@@ -23,37 +23,25 @@ _TODO: list individual feature articles once split out (this landing page curren
 _Example entries — replace with the real release history for this capability area._
 
 {% hint style="success" %}
-**July 16, 2026** · `v3.0.0` · **ADDED**
-
-Initial 3.0 release of AppleCare & Protection Plans: new landing page structure, updated settings labels, and Apple-blue brand defaults (#0071e3).
+**July 16, 2026** · `v3.0.0` · **ADDED** — Initial 3.0 release.
 {% endhint %}
 
 {% hint style="info" %}
-**April 21, 2026** · `v2.8.0` · **CHANGED**
-
-AppleCare & Protection Plans settings reorganized into plain-language groups; legacy setting names replaced and retired settings confirmed.
+**April 21, 2026** · `v2.8.0` · **CHANGED** — Settings reorganized into plain-language groups.
 {% endhint %}
 
 {% hint style="warning" %}
-**February 10, 2026** · `v2.7.1` · **FIXED**
-
-Patch for AppleCare & Protection Plans: corrected fallback behavior on mobile and resolved a label mismatch between Shopify and CX-S.
+**February 10, 2026** · `v2.7.1` · **FIXED** — Fixed mobile fallback behavior and a label mismatch.
 {% endhint %}
 
 {% hint style="success" %}
-**September 18, 2025** · `v2.4.0` · **ADDED**
-
-New configuration options for AppleCare & Protection Plans, with separate controls for regular and business customers.
+**September 18, 2025** · `v2.4.0` · **ADDED** — New configuration options for regular and business customers.
 {% endhint %}
 
 {% hint style="info" %}
-**June 4, 2025** · `v2.1.0` · **CHANGED**
-
-Updated defaults for AppleCare & Protection Plans and clarified guidance for partner implementations.
+**June 4, 2025** · `v2.1.0` · **CHANGED** — Updated defaults and partner guidance.
 {% endhint %}
 
 {% hint style="success" %}
-**March 12, 2025** · `v2.0.0` · **ADDED**
-
-First documented version of AppleCare & Protection Plans in the 2.x program.
+**March 12, 2025** · `v2.0.0` · **ADDED** — First documented version.
 {% endhint %}
