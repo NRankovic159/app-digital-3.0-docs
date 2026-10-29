@@ -14,12 +14,8 @@ The rest of the release is refinement: the cart now self-heals grouped add-on ro
 
 ## Release Notes Document
 
-{% file src="../.gitbook/assets/Store-2.8.2-Release-Notes.pdf" %}
-Store 2.8.2 Release Notes (PDF)
-{% endfile %}
-
-{% file src="../.gitbook/assets/Store-2.8.2-Release-Notes.docx" %}
-Store 2.8.2 Release Notes (Word, editable)
+{% file src="../.gitbook/assets/2.8.2-Theme-Release-Notes.pdf" %}
+2.8.2 Theme Release Notes
 {% endfile %}
 
 ## Highlights
