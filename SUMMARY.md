@@ -10,7 +10,6 @@
   * [Glossary of Program Terms](getting-started/glossary.md)
   * [First Project Walkthrough](getting-started/first-project-walkthrough.md)
 * [CX Guidelines](cx-guidelines/README.md)
-  * [Approved Customization Patterns](cx-guidelines/approved-customization-patterns.md)
   * [Overview & release scope](cx-guidelines/cx-overview.md)
   * [Homepage updates](cx-guidelines/cx-homepage.md)
   * [Badging & stripes](cx-guidelines/cx-badging-stripes.md)
