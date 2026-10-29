@@ -6,8 +6,12 @@
 
 ## Release Notes Document
 
+{% file src="../.gitbook/assets/Store-2.7.1-Release-Notes.pdf" %}
+Store 2.7.1 Release Notes (PDF)
+{% endfile %}
+
 {% file src="../.gitbook/assets/Store-2.7.1-Release-Notes.docx" %}
-Store 2.7.1 Release Notes (example document)
+Store 2.7.1 Release Notes (Word, editable)
 {% endfile %}
 
 ## Highlights

@@ -6,8 +6,12 @@
 
 ## Release Notes Document
 
+{% file src="../.gitbook/assets/Store-3.0-Release-Notes.pdf" %}
+Store 3.0 Release Notes (PDF)
+{% endfile %}
+
 {% file src="../.gitbook/assets/Store-3.0-Release-Notes.docx" %}
-Store 3.0 Release Notes (example document)
+Store 3.0 Release Notes (Word, editable)
 {% endfile %}
 
 ## Highlights
