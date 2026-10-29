@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="210" viewBox="0 0 1500 210" role="img" aria-label="4 theme releases, 15 capability areas, 9 documentation sections, 78 total pages, 8 getting started resources" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Text','Helvetica Neue',Helvetica,Arial,sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="210" viewBox="0 0 1500 210" role="img" aria-label="4 theme releases, 15 capability areas, 9 documentation sections, 75 total pages, 8 getting started resources" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Text','Helvetica Neue',Helvetica,Arial,sans-serif">
 <rect x="1.0" y="1" width="285.2" height="208" rx="22" fill="#0071e3"/>
 <text x="34.0" y="82" font-size="60" font-weight="800" fill="#ffffff">4</text>
 <text x="34.0" y="122" font-size="25" font-weight="700" fill="#ffffff">All Theme Releases</text>
@@ -13,7 +13,7 @@
 <text x="640.4" y="122" font-size="25" font-weight="700" fill="#1d1d1f">Documentation</text>
 <text x="640.4" y="151" font-size="25" font-weight="700" fill="#1d1d1f">Sections</text>
 <rect x="910.6" y="1" width="285.2" height="208" rx="22" fill="#0071e3"/>
-<text x="943.6" y="82" font-size="60" font-weight="800" fill="#ffffff">78</text>
+<text x="943.6" y="82" font-size="60" font-weight="800" fill="#ffffff">75</text>
 <text x="943.6" y="122" font-size="25" font-weight="700" fill="#ffffff">Total Pages</text>
 <text x="943.6" y="152" font-size="19" fill="#ffffff" opacity="0.92">Across the whole hub</text>
 <rect x="1213.8" y="1" width="285.2" height="208" rx="22" fill="#eafbf0"/>
