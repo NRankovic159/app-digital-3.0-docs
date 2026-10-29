@@ -1,9 +1,5 @@
 # 2.7.2 Theme Release Notes
 
-{% hint style="warning" %}
-🚧 **Example content** — replace with the real release notes for this version.
-{% endhint %}
-
 ## Overview
 
 **About v2.7.2**
