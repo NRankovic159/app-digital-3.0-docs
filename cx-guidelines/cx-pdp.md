@@ -60,5 +60,5 @@ Adding tooltips to the PDP is the final checklist item. Add tooltips per the exa
 ## Feature timeline
 
 {% hint style="success" %}
-**July 17, 2026** · `v1.0.0` · **ADDED** — Documented the March 2026 NPI CX guidance for PDP updates: activating each product and enabling the Notify Me CTA, setting Frequently Bought Together recommendations per product (iPad Air, iPhone 17e, and the MacBook line), verifying and swapping the What's in the Box image (including the WW-EN plug/no-plug versions and removing any extra image), and adding tooltips.
+**July 17, 2026** · `v2.8` · **ADDED** — Documented the March 2026 NPI CX guidance for PDP updates: activating each product and enabling the Notify Me CTA, setting Frequently Bought Together recommendations per product (iPad Air, iPhone 17e, and the MacBook line), verifying and swapping the What's in the Box image (including the WW-EN plug/no-plug versions and removing any extra image), and adding tooltips.
 {% endhint %}

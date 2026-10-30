@@ -19,5 +19,5 @@ Add **MacBook Neo** to the top of the Mac navigation menu so it is the first ite
 ## Feature timeline
 
 {% hint style="success" %}
-**July 17, 2026** · `v1.0.0` · **ADDED** — Documented the March 2026 NPI navigation guidance for the APP theme: adding newly launched products to the main navigation menus, including placing MacBook Neo at the top of the Mac navigation menu.
+**July 17, 2026** · `v2.8` · **ADDED** — Documented the March 2026 NPI navigation guidance for the APP theme: adding newly launched products to the main navigation menus, including placing MacBook Neo at the top of the Mac navigation menu.
 {% endhint %}

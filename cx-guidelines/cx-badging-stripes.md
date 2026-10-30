@@ -86,5 +86,5 @@ Add the following icons to the left (beginning) of the stripe, in this order:
 ## Feature timeline
 
 {% hint style="success" %}
-**July 17, 2026** · `v1.0.0` · **ADDED** — Published the March 2026 NPI badging and stripe guidance: removing aged-out NEW badges (iPhone 17 Pro & Pro Max, iPhone 17, iPhone Air, Apple Watch Series 11, Ultra 3, SE, AirPods Pro 3) and updating the iPhone, iPad, Accessories, All Mac, Mac, and Studio Display stripes with the new products for the March 2–4, 2026 releases.
+**July 17, 2026** · `v2.8` · **ADDED** — Published the March 2026 NPI badging and stripe guidance: removing aged-out NEW badges (iPhone 17 Pro & Pro Max, iPhone 17, iPhone Air, Apple Watch Series 11, Ultra 3, SE, AirPods Pro 3) and updating the iPhone, iPad, Accessories, All Mac, Mac, and Studio Display stripes with the new products for the March 2–4, 2026 releases.
 {% endhint %}

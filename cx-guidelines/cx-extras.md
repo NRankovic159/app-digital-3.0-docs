@@ -50,5 +50,5 @@ These edits touch theme code. If you don't work in the theme's Liquid files dire
 ## Feature timeline
 
 {% hint style="success" %}
-**July 17, 2026** · `v1.0.0` · **ADDED** — Documented the March 2026 NPI CX guidance for the two optional partner modules: the MacBook Neo 2D viewer (asset source and Bloomfire implementation link) and the animated homepage video banners (the two Liquid edits to slider_clickable.liquid).
+**July 17, 2026** · `v2.8` · **ADDED** — Documented the March 2026 NPI CX guidance for the two optional partner modules: the MacBook Neo 2D viewer (asset source and Bloomfire implementation link) and the animated homepage video banners (the two Liquid edits to slider_clickable.liquid).
 {% endhint %}

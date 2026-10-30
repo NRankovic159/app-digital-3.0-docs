@@ -92,5 +92,5 @@ Create a **new PLP** with the MacBook Neo smart collection.
 ## Feature timeline
 
 {% hint style="success" %}
-**July 17, 2026** · `v1.0.0` · **ADDED** — Published the March 2026 NPI LOB and PLP guidance: sourcing family images and search banners from the Box PSD templates, the iPhone and iPad LOB banner and reorder changes, the Mac LOB MacBook Neo banner and reorder, the new iPad Air and MacBook Pro smart collections, and the new MacBook Neo PLP for the March 2–4, 2026 releases.
+**July 17, 2026** · `v2.8` · **ADDED** — Published the March 2026 NPI LOB and PLP guidance: sourcing family images and search banners from the Box PSD templates, the iPhone and iPad LOB banner and reorder changes, the Mac LOB MacBook Neo banner and reorder, the new iPad Air and MacBook Pro smart collections, and the new MacBook Neo PLP for the March 2–4, 2026 releases.
 {% endhint %}

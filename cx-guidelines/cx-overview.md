@@ -132,5 +132,5 @@ Bloomfire documentation helps explain the duplicate-MPN behavior: <https://appdi
 ## Feature timeline
 
 {% hint style="success" %}
-**July 17, 2026** · `v1.0.0` · **ADDED** — Published the March 2026 NPI CX guidance overview: the 13-item partner checklist, the staging site and guidance notes (defer to local Marcom/PCM), where to get tiles/swatches and the CX option-mapping file, the full March 2–4 release scope across three waves, and the note on duplicate Mac MPNs for multi-keyboard-language countries.
+**July 17, 2026** · `v2.8` · **ADDED** — Published the March 2026 NPI CX guidance overview: the 13-item partner checklist, the staging site and guidance notes (defer to local Marcom/PCM), where to get tiles/swatches and the CX option-mapping file, the full March 2–4 release scope across three waves, and the note on duplicate Mac MPNs for multi-keyboard-language countries.
 {% endhint %}

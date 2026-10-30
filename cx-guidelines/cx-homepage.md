@@ -112,5 +112,5 @@ Screenshot to follow when Staging setup is complete.
 ## Feature timeline
 
 {% hint style="success" %}
-**July 17, 2026** · `v1.0.0` · **ADDED** — Published the March 2026 NPI homepage-update guidance: the six homepage areas, the carousel slide order, the LOB stripe lockups, the What's New current-to-suggested tile map, the bento box swaps, the featured accessories change, and the Quick Check Out add/existing list.
+**July 17, 2026** · `v2.8` · **ADDED** — Published the March 2026 NPI homepage-update guidance: the six homepage areas, the carousel slide order, the LOB stripe lockups, the What's New current-to-suggested tile map, the bento box swaps, the featured accessories change, and the Quick Check Out add/existing list.
 {% endhint %}

@@ -60,5 +60,5 @@ You must remove the unwanted model(s) from each individual product dropdown **an
 ## Feature timeline
 
 {% hint style="success" %}
-**July 17, 2026** · `v1.0.0` · **ADDED** — Documented the March 2026 NPI marketing & compare page guidance for the APP theme: the new patch-based marketing upload process (patch 2.4.4 / 1.2.1) using the Shopify CDN, the manual HTML marketing-page steps for partners without the patch (minify, remove the interactive compare section, add partner messaging, link Flex CTAs and traffic drivers), and how to trim compare pages under Shopify's size limit by removing unwanted iPhone models from each dropdown and compare-table row.
+**July 17, 2026** · `v2.8` · **ADDED** — Documented the March 2026 NPI marketing & compare page guidance for the APP theme: the new patch-based marketing upload process (patch 2.4.4 / 1.2.1) using the Shopify CDN, the manual HTML marketing-page steps for partners without the patch (minify, remove the interactive compare section, add partner messaging, link Flex CTAs and traffic drivers), and how to trim compare pages under Shopify's size limit by removing unwanted iPhone models from each dropdown and compare-table row.
 {% endhint %}
