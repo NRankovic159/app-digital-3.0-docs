@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="574" height="420" viewBox="0 0 574 420" role="img" aria-label="4 All Theme Releases" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Text','Helvetica Neue',Helvetica,Arial,sans-serif">
 <rect width="574" height="420" rx="44" fill="#0071e3"/>
-<text x="68" y="118" font-size="100" font-weight="800" fill="#ffffff">4</text>
-<text x="68" y="180" font-size="36" font-weight="700" fill="#ffffff">All Theme Releases</text>
-<text x="68" y="226" font-size="28" fill="#ffffff" opacity="0.92">Versions documented</text>
+<text x="60" y="193" font-size="124" font-weight="800" fill="#ffffff">4</text>
+<text x="60" y="259" font-size="44" font-weight="700" fill="#ffffff">All Theme Releases</text>
+<text x="60" y="299" font-size="34" fill="#ffffff" opacity="0.92">Versions documented</text>
 </svg>
