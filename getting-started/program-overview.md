@@ -16,8 +16,7 @@ Our APP Digital Program follows a 5 phase timeline:
 4. Implementation (4-6 months)
 5. Launch Preparation & Go-Live (2 weeks)
 
-![APP Digital Program 5-phase timeline](#)
-_TODO: insert program timeline graphic here._
+&#x20;_TODO: insert program timeline graphic here._
 
 ## Documentation Structure
 
@@ -38,4 +37,4 @@ This documentation hub is organized by topic rather than by program phase, so yo
 * **Left navigation** — each bold item in the left sidebar is a main section; click it to open that section's main page, and its sub-pages are listed underneath.
 * **Change Logs** — every article under Features & Functionality has its own Change Log sub-page tracking what changed between versions.
 * **Direct links** — every page has a stable URL, so you can bookmark or share a direct link to any article.
-* **Requesting changes** — if you spot something missing or incorrect, use the support ticket and content-request links on the [Home](../home/README.md) page.
+* **Requesting changes** — if you spot something missing or incorrect, use the support ticket and content-request links on the [Home](../) page.

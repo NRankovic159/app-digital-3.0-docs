@@ -1,0 +1,23 @@
+# APP Digital — 3.0 Documentation
+
+Welcome to the APP Digital Program 3.0 documentation hub.
+
+{% hint style="info" %}
+**4 new announcements** — see [Recently Updated](./#recently-updated) below for the latest 3.0 additions.
+{% endhint %}
+
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td><a href=".gitbook/assets/tile-1.svg">tile-1.svg</a></td></tr><tr><td></td><td><a href=".gitbook/assets/tile-2.svg">tile-2.svg</a></td></tr><tr><td></td><td><a href=".gitbook/assets/tile-3.svg">tile-3.svg</a></td></tr><tr><td></td><td><a href=".gitbook/assets/tile-4.svg">tile-4.svg</a></td></tr><tr><td></td><td><a href=".gitbook/assets/tile-5.svg">tile-5.svg</a></td></tr></tbody></table>
+
+## Quick Start
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>🚀 Getting Started</strong></td><td>Onboarding, integration setup, access provisioning, and program terminology.</td><td><a href="getting-started/">getting-started</a></td><td></td></tr><tr><td><strong>🎨 CX Guidelines</strong></td><td>Design/UX standards, accessibility, localization, and customization patterns.</td><td><a href="cx-guidelines/">cx-guidelines</a></td><td></td></tr><tr><td><strong>📦 NPI Operations</strong></td><td>Readiness, delivery SLAs, milestones, and the missing-content runbook.</td><td><a href="npi-operations/">npi-operations</a></td><td></td></tr><tr><td><strong>📊 Analytics</strong></td><td>How to read performance/completeness reports and what's measured.</td><td><a href="analytics/">analytics</a></td><td></td></tr><tr><td><strong>🧩 Theme Release</strong></td><td>Release notes, migration guides, and deprecation notices.</td><td><a href="theme-release/">theme-release</a></td><td></td></tr><tr><td><strong>⚙️ Features &#x26; Functionality</strong></td><td>One landing page per capability area, each with its own Change Log.</td><td><a href="features-functionality/">features-functionality</a></td><td></td></tr><tr><td><strong>🛟 Support</strong></td><td>Partner UAT, product content support, and theme support.</td><td><a href="support/">support</a></td><td></td></tr><tr><td><strong>ℹ️ About Us</strong></td><td>The APP Digital program and its mission.</td><td><a href="about-us/">about-us</a></td><td></td></tr></tbody></table>
+
+## Recently Updated
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>[3.0] Features and Functionality</strong></td><td>October 2026 — Capability-area landing pages and change logs for all 15 topics are now live.</td><td><a href="features-functionality/">features-functionality</a></td><td></td></tr><tr><td><strong>[3.0] New Features</strong></td><td>October 2026 — Overview of net-new capabilities introduced in the 3.0 release.</td><td><a href="home/new-features-3-0.md">new-features-3-0.md</a></td><td></td></tr><tr><td><strong>[3.0] Mobile Search</strong></td><td>September 2026 — Updated guidance on mobile search behavior for 3.0.</td><td><a href="home/mobile-search-3-0.md">mobile-search-3-0.md</a></td><td></td></tr><tr><td><strong>[3.0] Energy Label</strong></td><td>September 2026 — New compliance guidance for energy label requirements.</td><td><a href="home/energy-label-3-0.md">energy-label-3-0.md</a></td><td></td></tr></tbody></table>
+
+## Need Help?
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>🎫 File a support ticket</strong></td><td>Ticketing link coming soon.</td><td></td><td></td></tr><tr><td><strong>✏️ Request new content</strong></td><td>Request form coming soon.</td><td></td><td></td></tr></tbody></table>
+
+Static section — only touch if the linked process or form changes.

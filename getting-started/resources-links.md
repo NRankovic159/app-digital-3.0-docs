@@ -13,14 +13,14 @@ Links to vital resources for APPs who are getting started with the program. Make
 
 ## Documentation & Training
 
-* APP Digital Program Documentation Homepage: [/home](../home/README.md)
-* Due Diligence Phase Introductory Deck: [#](#) — _TODO: migrate from Bloomfire and link to the GitBook page_
-* FAQ List: [#](#) — _TODO: migrate from Bloomfire and link to the GitBook page_
+* APP Digital Program Documentation Homepage: [/home](../)
+* Due Diligence Phase Introductory Deck: [#](resources-links.md) — _TODO: migrate from Bloomfire and link to the GitBook page_
+* FAQ List: [#](resources-links.md) — _TODO: migrate from Bloomfire and link to the GitBook page_
 
 ## Site Setup & Support
 
 * APP Digital Program metafields list:
-  * Product Stitching: [#](#) — _TODO: migrate from Bloomfire and link to the GitBook page_
-  * Store 2.x: [#](#) — _TODO: migrate from Bloomfire and link to the GitBook page_
-* CX Guidelines Link: [/cx-guidelines](../cx-guidelines/README.md)
+  * Product Stitching: [#](resources-links.md) — _TODO: migrate from Bloomfire and link to the GitBook page_
+  * Store 2.x: [#](resources-links.md) — _TODO: migrate from Bloomfire and link to the GitBook page_
+* CX Guidelines Link: [/cx-guidelines](../cx-guidelines/)
 * Support Form for enhancement / issues / bugs / general support help: [Submit a request](https://www.wrike.com/form/eyJhY2NvdW50SWQiOjM2ODYyMjksInRhc2tGb3JtSWQiOjExMTM1NTR9CTQ4NTMxNTk1MDkyODUJYjllOWMzNDJjZTYwZmEwOGQxM2M5YzJiZDc4NGI0MjFiY2IyM2ViZDcyZDBiYjY1M2M5Y2JlNTQxM2E3Yjg2ZA==)

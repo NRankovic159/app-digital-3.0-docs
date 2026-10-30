@@ -1,4 +1,4 @@
-# 3.0 Theme Release Notes
+# 3.0
 
 ## Overview
 
@@ -10,7 +10,7 @@ The rest of the release is refinement: the cart now self-heals grouped add-on ro
 
 ## Release Notes Document
 
-{% file src="../.gitbook/assets/Store-3.0-Release-Notes.pdf" %}
+{% file src="../.gitbook/assets/Store 2.8 Release Notes. (updated v3).pdf" %}
 3.0 Theme Release Notes
 {% endfile %}
 
