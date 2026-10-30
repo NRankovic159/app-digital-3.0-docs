@@ -10,7 +10,7 @@ The rest of the release is refinement: the cart now self-heals grouped add-on ro
 
 ## Release Notes Document
 
-{% file src="../.gitbook/assets/2.7-Theme-Release-Notes.pdf" %}
+{% file src="../.gitbook/assets/Store-2.7-Release-Notes.pdf" %}
 2.7 Theme Release Notes
 {% endfile %}
 
