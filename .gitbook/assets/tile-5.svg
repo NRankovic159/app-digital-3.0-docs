@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-label="8 Getting Started Resources" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Text','Helvetica Neue',Helvetica,Arial,sans-serif">
-<rect width="800" height="450" fill="#eafbf0"/>
-<text x="150" y="214" font-size="104" font-weight="800" fill="#157a3b">8</text>
-<text x="150" y="266" font-size="38" font-weight="700" fill="#14532d">Getting Started</text>
-<text x="150" y="310" font-size="38" font-weight="700" fill="#14532d">Resources</text>
-<text x="150" y="356" font-size="30" fill="#14532d" opacity="0.92">Onboarding articles</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="574" height="420" viewBox="0 0 574 420" role="img" aria-label="8 Getting Started Resources" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Text','Helvetica Neue',Helvetica,Arial,sans-serif">
+<rect width="574" height="420" rx="44" fill="#eafbf0"/>
+<text x="68" y="118" font-size="100" font-weight="800" fill="#157a3b">8</text>
+<text x="68" y="180" font-size="36" font-weight="700" fill="#14532d">Getting Started</text>
+<text x="68" y="222" font-size="36" font-weight="700" fill="#14532d">Resources</text>
+<text x="68" y="268" font-size="28" fill="#14532d" opacity="0.92">Onboarding articles</text>
 </svg>

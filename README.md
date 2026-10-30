@@ -6,7 +6,7 @@ Welcome to the APP Digital Program 3.0 documentation hub.
 **4 new announcements** — see [Recently Updated](./#recently-updated) below for the latest 3.0 additions.
 {% endhint %}
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td><a href=".gitbook/assets/tile-1.svg">tile-1.svg</a></td></tr><tr><td></td><td><a href=".gitbook/assets/tile-2.svg">tile-2.svg</a></td></tr><tr><td></td><td><a href=".gitbook/assets/tile-3.svg">tile-3.svg</a></td></tr><tr><td></td><td><a href=".gitbook/assets/tile-4.svg">tile-4.svg</a></td></tr><tr><td></td><td><a href=".gitbook/assets/tile-5.svg">tile-5.svg</a></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src=".gitbook/assets/tile-1.svg" alt="4 All Theme Releases"></td><td><img src=".gitbook/assets/tile-2.svg" alt="15 Capability Areas"></td><td><img src=".gitbook/assets/tile-3.svg" alt="9 Documentation Sections"></td><td><img src=".gitbook/assets/tile-4.svg" alt="74 Total Pages"></td><td><img src=".gitbook/assets/tile-5.svg" alt="8 Getting Started Resources"></td></tr></tbody></table>
 
 ## Quick Start
 
