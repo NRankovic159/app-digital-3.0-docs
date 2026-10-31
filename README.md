@@ -6,7 +6,7 @@ Welcome to the APP Digital Program 3.0 documentation hub.
 **4 new announcements** — see [Recently Updated](./#recently-updated) below for the latest 3.0 additions.
 {% endhint %}
 
-<table data-header-hidden><thead><tr><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><a href="theme-release/release-notes.md"><img src=".gitbook/assets/tile-1.svg" alt="5 All Theme Releases"></a></td><td><a href="features-functionality/README.md"><img src=".gitbook/assets/tile-2.svg" alt="15 Capability Areas"></a></td><td><a href="./#quick-start"><img src=".gitbook/assets/tile-3.svg" alt="9 Documentation Sections"></a></td><td><a href="./#quick-start"><img src=".gitbook/assets/tile-4.svg" alt="74 Total Pages"></a></td><td><a href="getting-started/README.md"><img src=".gitbook/assets/tile-5.svg" alt="8 Getting Started Resources"></a></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><a href="theme-release/release-notes.md"><img src=".gitbook/assets/tile-1.svg" alt="4 All Theme Releases"></a></td><td><a href="features-functionality/README.md"><img src=".gitbook/assets/tile-2.svg" alt="15 Capability Areas"></a></td><td><a href="./#quick-start"><img src=".gitbook/assets/tile-3.svg" alt="9 Documentation Sections"></a></td><td><a href="./#quick-start"><img src=".gitbook/assets/tile-4.svg" alt="74 Total Pages"></a></td><td><a href="getting-started/README.md"><img src=".gitbook/assets/tile-5.svg" alt="8 Getting Started Resources"></a></td></tr></tbody></table>
 
 ## Quick Start
 
