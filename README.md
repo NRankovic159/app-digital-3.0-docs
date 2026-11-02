@@ -1,6 +1,6 @@
 ---
 layout:
-  width: default
+  width: wide
   title:
     visible: false
   description:
@@ -20,8 +20,6 @@ layout:
   anchors:
     visible: true
 ---
-
-# Home
 
 ### **Welcome to the APP Digital Program 3.0 documentation hub.**
 
