@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="574" height="420" viewBox="0 0 574 420" role="img" aria-label="8 Getting Started Resources" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Text','Helvetica Neue',Helvetica,Arial,sans-serif">
-<rect x="3" y="3" width="568" height="414" rx="44" fill="#ffffff" stroke="#d2d2d7" stroke-width="5"/>
-<text x="44" y="150" font-size="140" font-weight="800" fill="#1d1d1f">8</text>
-<text x="44" y="222" font-size="62" font-weight="700" fill="#1d1d1f">Getting Started</text>
-<text x="44" y="290" font-size="62" font-weight="700" fill="#1d1d1f">Resources</text>
-<text x="44" y="337" font-size="46" fill="#6e6e73" opacity="0.95">Onboarding articles</text>
+<rect x="3" y="3" width="568" height="414" rx="44" fill="#ffffff" stroke="#0071e3" stroke-width="5"/>
+<text x="44" y="150" font-size="140" font-weight="800" fill="#0071e3">8</text>
+<text x="44" y="222" font-size="62" font-weight="700" fill="#0071e3">Getting Started</text>
+<text x="44" y="290" font-size="62" font-weight="700" fill="#0071e3">Resources</text>
+<text x="44" y="337" font-size="46" fill="#0071e3" opacity="0.95">Onboarding articles</text>
 </svg>

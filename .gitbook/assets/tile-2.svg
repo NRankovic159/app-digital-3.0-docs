@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="574" height="420" viewBox="0 0 574 420" role="img" aria-label="15 Capability Areas" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Text','Helvetica Neue',Helvetica,Arial,sans-serif">
-<rect x="3" y="3" width="568" height="414" rx="44" fill="#ffffff" stroke="#d2d2d7" stroke-width="5"/>
-<text x="44" y="157" font-size="140" font-weight="800" fill="#1d1d1f">15</text>
-<text x="44" y="229" font-size="62" font-weight="700" fill="#1d1d1f">Capability Areas</text>
-<text x="44" y="276" font-size="46" fill="#6e6e73" opacity="0.95">Features &amp;</text>
-<text x="44" y="330" font-size="46" fill="#6e6e73" opacity="0.95">Functionality topics</text>
+<rect x="3" y="3" width="568" height="414" rx="44" fill="#ffffff" stroke="#0071e3" stroke-width="5"/>
+<text x="44" y="157" font-size="140" font-weight="800" fill="#0071e3">15</text>
+<text x="44" y="229" font-size="62" font-weight="700" fill="#0071e3">Capability Areas</text>
+<text x="44" y="276" font-size="46" fill="#0071e3" opacity="0.95">Features &amp;</text>
+<text x="44" y="330" font-size="46" fill="#0071e3" opacity="0.95">Functionality topics</text>
 </svg>
