@@ -21,6 +21,8 @@ layout:
     visible: true
 ---
 
+## APP Digital — 3.0 Documentation
+
 ### **Welcome to the APP Digital Program 3.0 documentation hub.**
 
 {% hint style="info" %}
