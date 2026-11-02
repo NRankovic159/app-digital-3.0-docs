@@ -13,7 +13,7 @@ Links to vital resources for APPs who are getting started with the program. Make
 
 ## Documentation & Training
 
-* APP Digital Program Documentation Homepage: [/home](../)
+* APP Digital Program Documentation Homepage: [/home](../home/README.md)
 * Due Diligence Phase Introductory Deck: [#](resources-links.md) — _TODO: migrate from Bloomfire and link to the GitBook page_
 * FAQ List: [#](resources-links.md) — _TODO: migrate from Bloomfire and link to the GitBook page_
 

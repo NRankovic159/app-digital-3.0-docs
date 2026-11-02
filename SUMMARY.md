@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Home](README.md)
+* [Home](home/README.md)
 * [Getting Started](getting-started/README.md)
   * [Program Overview & Documentation Structure](getting-started/program-overview.md)
   * [Resources & Links](getting-started/resources-links.md)
