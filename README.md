@@ -29,7 +29,7 @@ layout:
 **4 new announcements** — see [Recently Updated](./#recently-updated) below for the latest 3.0 additions.
 {% endhint %}
 
-| [![4 All Theme Releases](.gitbook/assets/tile-1.svg)](theme-release/release-notes.md) | [![15 Capability Areas](.gitbook/assets/tile-2.svg)](features-functionality/) | [![9 Documentation Sections](.gitbook/assets/tile-3.svg)](./#quick-start) | [![74 Total Pages](.gitbook/assets/tile-4.svg)](./#quick-start) | [![8 Getting Started Resources](.gitbook/assets/tile-5.svg)](getting-started/) |
+| [![4 All Theme Releases](.gitbook/assets/tile-1.svg)](theme-release/release-notes.md) | [![15 Capability Areas](.gitbook/assets/tile-2.svg)](features-functionality/) | [![9 Documentation Sections](.gitbook/assets/tile-3.svg)](./#quick-start) | [![100 Total Pages](.gitbook/assets/tile-4.svg)](./#quick-start) | [![8 Getting Started Resources](.gitbook/assets/tile-5.svg)](getting-started/) |
 | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 
 ## Quick Start
