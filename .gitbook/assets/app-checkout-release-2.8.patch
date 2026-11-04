@@ -1,0 +1,72 @@
+From 52693d6c2e87e67139ff1bf1207876b56987b2fe Mon Sep 17 00:00:00 2001
+From: Volodymyr Honcharuk <143790264+volhon-epam@users.noreply.github.com>
+Date: Fri, 2 Oct 2026 09:47:36 -0300
+Subject: [PATCH] fix: keep buyer's language in the checkout "Return to cart"
+ link (#23)
+
+---
+Requires topa-app-checkout-release-preact-polaris.patch to be applied first
+(that patch produces 132dd9d "extensions migration to preact (#22)", which is
+the base of this one).
+Together the two patches turn main into release-2.8.
+
+PRIMARY_LANGUAGE is set to "en": if your store's primary language is not
+English, change it to your primary language code.
+
+ .../checkout-cart-link-ui/src/Checkout.jsx    | 25 +++++++++++++++----
+ 1 file changed, 20 insertions(+), 5 deletions(-)
+
+diff --git a/extensions/checkout-cart-link-ui/src/Checkout.jsx b/extensions/checkout-cart-link-ui/src/Checkout.jsx
+index 41e32c280e4b7a6f4c672f72c6a19b273b7a9818..6c7954b124331d0ac018067600c44da1531f715f 100644
+--- a/extensions/checkout-cart-link-ui/src/Checkout.jsx
++++ b/extensions/checkout-cart-link-ui/src/Checkout.jsx
+@@ -1,15 +1,30 @@
+ import '@shopify/ui-extensions/preact';
+ import {render} from "preact";
+ 
++// The shop's primary language is served without a locale prefix (`/cart`).
++const PRIMARY_LANGUAGE = 'en';
++
+ export default async () => {
+   render(<Extension />, document.body)
+ };
+ 
++/**
++ * `shop.storefrontUrl` always points to the primary-language storefront, while
++ * other languages live in a URL subfolder (`/es/cart`), so add the buyer's
++ * language as a prefix to keep it when returning to the cart.
++ *
++ * @param {{isoCode: string} | undefined} language value of `shopify.localization.language`
++ * @returns {string}
++ */
++function getCartPath(language) {
++  const [languageCode] = language?.isoCode?.toLowerCase().split('-') || [PRIMARY_LANGUAGE];
++  return languageCode === PRIMARY_LANGUAGE ? '/cart' : `/${languageCode}/cart`;
++}
++
+ function Extension() {
+   const {storefrontUrl} = shopify.shop;
+-  const i18n = shopify.i18n;
+-  const translate = (key, replacements) => i18n.translate(key, replacements);
+-  const linkText = translate("cartLinkText");
++  const cartPath = getCartPath(shopify.localization.language.value);
++  const linkText = shopify.i18n.translate("cartLinkText");
+ 
+   const handleClick = () => {
+     shopify.analytics.publish('return_to_cart_clicked', {
+@@ -17,13 +32,13 @@ function Extension() {
+       event_location: 'Checkout',
+       event_action: 'return_to_cart',
+       event_label: linkText,
+-      click_url: '/cart',
++      click_url: cartPath,
+     });
+   };
+ 
+   return (
+     <s-stack direction='inline'>
+-      <s-link href={new URL("/cart", storefrontUrl).href} onClick={handleClick}>
++      <s-link href={new URL(cartPath, storefrontUrl).href} onClick={handleClick}>
+         <s-stack direction='inline' alignItems='center' gap='small-500'>
+           <s-icon type="chevron-left" size='small' /><s-text>{linkText}</s-text>
+         </s-stack>
