@@ -16,6 +16,8 @@ Please ensure you have updated the application and verify that a new "checkout-c
 2. In the Header section click on the “Add block” button. In a new modal window, click on the “checkout-cart-link-ui” block.
 3. Save changes.
 
+<figure><img src="../../.gitbook/assets/2-8-checkout-header-cart-link-bopis-reorder-1.png" alt="Screenshot 1 — Checkout Header Cart Link & BOPIS Reorder Installation Guideline"></figure>
+
 ## 3. BOPIS Reorder Function Installation
 
 ### 3.1 Prerequsites
@@ -40,6 +42,10 @@ query getFunctionId {
 ```
 
 In the response window find function with the name “bopis-location-reorder” and copy its ID:
+
+<figure><img src="../../.gitbook/assets/2-8-checkout-header-cart-link-bopis-reorder-2.png" alt="Screenshot 2 — Checkout Header Cart Link & BOPIS Reorder Installation Guideline"></figure>
+
+<figure><img src="../../.gitbook/assets/2-8-checkout-header-cart-link-bopis-reorder-3.png" alt="Screenshot 3 — Checkout Header Cart Link & BOPIS Reorder Installation Guideline"></figure>
 
 Create a new request by pasting the following graphql code:
 

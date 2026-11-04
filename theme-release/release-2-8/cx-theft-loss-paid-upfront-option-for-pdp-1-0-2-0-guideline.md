@@ -31,6 +31,12 @@ You need to create an entry that holds the actual T&L content and links to the T
 4. Fill in the fields with content specific to the AC+ Theft & Loss offering:
 5. Save the entry. Take note of its name or handle, as you will reference it in the next step.
 
+<figure><img src="../../.gitbook/assets/2-8-cx-theft-loss-paid-upfront-option-for-pd-1.png" alt="Screenshot 1 — [2.8] CX_Theft & Loss - Paid Upfront Option for PDP 1.0 & 2.0 Guideline"></figure>
+
+<figure><img src="../../.gitbook/assets/2-8-cx-theft-loss-paid-upfront-option-for-pd-2.png" alt="Screenshot 2 — [2.8] CX_Theft & Loss - Paid Upfront Option for PDP 1.0 & 2.0 Guideline"></figure>
+
+<figure><img src="../../.gitbook/assets/2-8-cx-theft-loss-paid-upfront-option-for-pd-3.png" alt="Screenshot 3 — [2.8] CX_Theft & Loss - Paid Upfront Option for PDP 1.0 & 2.0 Guideline"></figure>
+
 ### 2.3 Assigning the Metaobject to Products or Collections
 
 The metaobject entry you created must be linked to the products where the T&L addon should appear. The theme checks for a T&L configuration in the following order of priority:
@@ -60,6 +66,14 @@ The next step is to link the metaobject entry created in step 2.2 to the collect
 5. Search for and select the metaobject entry you created in section 2.2.
 6. Save.
 
+<figure><img src="../../.gitbook/assets/2-8-cx-theft-loss-paid-upfront-option-for-pd-4.png" alt="Screenshot 4 — [2.8] CX_Theft & Loss - Paid Upfront Option for PDP 1.0 & 2.0 Guideline"></figure>
+
+<figure><img src="../../.gitbook/assets/2-8-cx-theft-loss-paid-upfront-option-for-pd-5.png" alt="Screenshot 5 — [2.8] CX_Theft & Loss - Paid Upfront Option for PDP 1.0 & 2.0 Guideline"></figure>
+
+<figure><img src="../../.gitbook/assets/2-8-cx-theft-loss-paid-upfront-option-for-pd-6.png" alt="Screenshot 6 — [2.8] CX_Theft & Loss - Paid Upfront Option for PDP 1.0 & 2.0 Guideline"></figure>
+
+<figure><img src="../../.gitbook/assets/2-8-cx-theft-loss-paid-upfront-option-for-pd-7.png" alt="Screenshot 7 — [2.8] CX_Theft & Loss - Paid Upfront Option for PDP 1.0 & 2.0 Guideline"></figure>
+
 ### 2.4 Configuring for B2B (SMB) Customers
 
 You can provide a separate T&L metaobject entry with different copy, pricing, or terms tailored to that audience. This is optional — if no B2B-specific entry is configured.
@@ -86,6 +100,12 @@ The same mutual exclusivity applies in reverse: if a customer selects standard A
 ### 3.2 The Cart and Side Sheet
 
 When the customer adds the product to their cart with AC+ T&L selected, both the hero product and the T&L addon are added as separate line items. In the cart drawer (side sheet, if enabled) and on the full cart page, the T&L addon is displayed as a sub-item associated with the hero product.
+
+<figure><img src="../../.gitbook/assets/2-8-cx-theft-loss-paid-upfront-option-for-pd-8.png" alt="Screenshot 8 — [2.8] CX_Theft & Loss - Paid Upfront Option for PDP 1.0 & 2.0 Guideline"></figure>
+
+<figure><img src="../../.gitbook/assets/2-8-cx-theft-loss-paid-upfront-option-for-pd-9.png" alt="Screenshot 9 — [2.8] CX_Theft & Loss - Paid Upfront Option for PDP 1.0 & 2.0 Guideline"></figure>
+
+<figure><img src="../../.gitbook/assets/2-8-cx-theft-loss-paid-upfront-option-for-pd-10.png" alt="Screenshot 10 — [2.8] CX_Theft & Loss - Paid Upfront Option for PDP 1.0 & 2.0 Guideline"></figure>
 
 If the customer did not select T&L on the PDP, they also have the option to add it directly from the cart or a side sheet. Removing the hero product from the cart will also remove the associated T&L addon.
 

@@ -16,6 +16,8 @@ Partners require a mobile landing page layout that allows customers to see all a
 
 **Figma Link :** For APPs to implement please refer to the box folder : https://apple.box.com/s/49ula877by4hyypqs65qln6gbpt2zn2l
 
+<figure><img src="../../.gitbook/assets/2-8-cx-aasp-lp-grid-view-on-a-mobile-screen-1.png" alt="Screenshot 1 — [2.8] CX_ AASP LP – Grid view on a mobile screen"></figure>
+
 ## 2. What Is Grid View?
 
 Grid View is a static layout section on the AASP Repair and Service Landing Page for mobile screens. It presents product category tiles in a structured 2-column grid, displaying all configured tiles simultaneously on screen load. The purpose of this feature is to provide partners with a template to market their repair services to customers visiting on mobile.

@@ -6,6 +6,8 @@ This document describes the search bar initiation tracking introduced in Release
 This event fires on search bar focus/click only — BEFORE the user types any keyword. It is distinct from existing search query events and is designed to measure top-of-funnel search intent. No search term is captured at this stage.
 {% endhint %}
 
+<figure><img src="../../.gitbook/assets/2-8-search-bar-initiation-tracking-1.png" alt="Screenshot 1 — [2.8] Search Bar Initiation Tracking"></figure>
+
 ## Scope & Prerequisites
 
 Tracking applies to the search bar component rendered within the Shopify storefront header, on both mobile and desktop viewports. The event is triggered on the initial activation (focus) of the search input field.

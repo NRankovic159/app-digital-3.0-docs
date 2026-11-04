@@ -2,6 +2,10 @@
 
 This document describes the second image on hover feature introduced in Release 2.8. When a user hovers over a product card on a collection page (PLP), the product image transitions from the primary image to the secondary image associated with that product. When the cursor leaves the card, the image reverts to the primary image. This is a purely front-end visual enhancement with no tracking payload — it requires no changes to the analytics layer.
 
+<figure><img src="../../.gitbook/assets/2-8-show-the-second-image-on-hover-1.png" alt="Screenshot 1 — [2.8] Show the second image on hover"></figure>
+
+<figure><img src="../../.gitbook/assets/2-8-show-the-second-image-on-hover-2.png" alt="Screenshot 2 — [2.8] Show the second image on hover"></figure>
+
 ## Example
 
 On the Mac Accessories collection page, the Magic Trackpad — Black Multi-Touch Surface product card shows an angled perspective image by default. On hover, this is replaced with a flat, top-down image of the same product.

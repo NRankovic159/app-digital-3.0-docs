@@ -21,6 +21,10 @@ Fired when the user taps the hamburger icon (☰) to open the navigation menu.
 | `event_label` | `Hamburger Menu` | Human-readable label for the element |
 | `click_url` | `/collections/iphone-17-pro` | The URL of the page when the interaction occurs (contextual) |
 
+<figure><img src="../../.gitbook/assets/2-8-hamburger-menu-interaction-tracking-1.png" alt="Screenshot 1 — [2.8] Hamburger Menu Interaction Tracking"></figure>
+
+<figure><img src="../../.gitbook/assets/2-8-hamburger-menu-interaction-tracking-2.png" alt="Screenshot 2 — [2.8] Hamburger Menu Interaction Tracking"></figure>
+
 ### Event 2 — Hamburger Menu Close
 
 Fired when the user taps the ‘X’ button to close the navigation menu.

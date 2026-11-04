@@ -6,6 +6,8 @@ Release 2.8
 
 Release 2.8 adds classification rules for the new products announced since August 2026 and includes a set of fixes and optimizations to the existing Product String Classification Rules. Ten of the 14 new products are already classified correctly by the current rules. The Home products (Apple HomeView, HomePod mini 2 and Apple TV 4K 4th generation) needed five new rules. Rules are evaluated from top to bottom and the last matching rule wins, so the new product rules are added at the end of the ruleset. After the release the ruleset contains 88 rules.
 
+<figure><img src="../../.gitbook/assets/2-8-product-classification-rules-lob-sub-lob-1.png" alt="Screenshot 1 — [2.8] Product Classification Rules — LOB & Sub LOB Updates"></figure>
+
 ## New Products
 
 All new product keys were verified in Adobe and return the expected LOB and Sub LOB.
