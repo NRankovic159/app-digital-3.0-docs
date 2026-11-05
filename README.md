@@ -26,7 +26,7 @@ layout:
 ### **Welcome to the APP Digital Program 3.0 documentation hub.**
 
 {% hint style="info" %}
-**4 new announcements** — see [Recently Updated](./#recently-updated) below for the latest 3.0 additions.
+**1 new announcement** — see [2.8 Theme Release](theme-release/theme-release-2-8.md)
 {% endhint %}
 
 |  |  |  |  |  |
