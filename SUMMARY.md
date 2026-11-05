@@ -32,7 +32,6 @@
       * [3.0](theme-release/release-notes-3-0-0.md)
   * [2.8 Theme Release](theme-release/theme-release-2-8.md)
     * [Release Notes](theme-release/release-notes-2-8.md)
-      * [2.8](theme-release/release-notes-2-8-0.md)
       * [Store 2.8 Release Notes](theme-release/release-2-8/store-2-8-release-notes.md)
     * [APP Shopify Theme Release 2.8](theme-release/release-2-8/app-shopify-theme-release-2-8.md)
     * [APP Shopify Checkout Extension 2.8](theme-release/release-2-8/app-shopify-checkout-extension-2-8.md)

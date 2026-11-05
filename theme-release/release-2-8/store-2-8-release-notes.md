@@ -1,5 +1,11 @@
 # Store 2.8 Release Notes
 
+## Release Notes Document
+
+{% file src="../../.gitbook/assets/Store-2.8-Release-Notes.pdf" %}
+Store 2.8 Release Notes
+{% endfile %}
+
 ## Overview
 
 The Store 2.8 Release comprises the following new features, general updates and upgrades, accessibility improvements, and defect resolutions. This document is the single reference for what changed in 2.8, how it was verified, and what partners need to do to adopt it.
