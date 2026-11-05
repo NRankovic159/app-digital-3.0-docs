@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="574" height="420" viewBox="0 0 574 420" role="img" aria-label="NPI Operations" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Text','Helvetica Neue',Helvetica,Arial,sans-serif">
-<rect x="3" y="3" width="568" height="414" rx="44" fill="#ffffff" stroke="#0071e3" stroke-width="5"/>
-<text x="44" y="194" font-size="84" font-weight="800" fill="#0071e3">NPI</text>
-<text x="44" y="286" font-size="84" font-weight="800" fill="#0071e3">Operations</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="574" height="340" viewBox="0 0 574 340" role="img" aria-label="NPI Operations" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Text','Helvetica Neue',Helvetica,Arial,sans-serif">
+<rect x="3" y="3" width="568" height="334" rx="44" fill="#ffffff" stroke="#0071e3" stroke-width="5"/>
+<text x="44" y="154" font-size="84" font-weight="800" fill="#0071e3">NPI</text>
+<text x="44" y="246" font-size="84" font-weight="800" fill="#0071e3">Operations</text>
 </svg>
