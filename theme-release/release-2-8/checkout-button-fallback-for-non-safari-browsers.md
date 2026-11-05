@@ -1,4 +1,4 @@
-# [2.8] Checkout Button Fallback for Non-Safari Browsers
+# Checkout Button Fallback for Non-Safari Browsers
 
 Series: CX Solution Documents | Universal APP Shopify Theme Release: 2.8 | Applicable pages: Cart Page, PDP
 
@@ -36,7 +36,7 @@ The table below summarises which button is shown and what happens on click, per 
 | Behaviour on click | Initiates the Apple Pay payment sheet flow |
 | Changed in 2.8? | No — behaviour is unchanged. Apple Pay continues to work exactly as before on supported browsers. |
 
-<figure><img src="../../.gitbook/assets/2-8-checkout-button-fallback-for-non-safari-1.png" alt="Screenshot 1 — [2.8] Checkout Button Fallback for Non-Safari Browsers"></figure>
+<figure><img src="../../.gitbook/assets/2-8-checkout-button-fallback-for-non-safari-1.png" alt="Screenshot 1 — Checkout Button Fallback for Non-Safari Browsers"></figure>
 
 ### BUTTON B — Checkout (Chrome, Firefox, and all non-Apple Pay browsers)
 

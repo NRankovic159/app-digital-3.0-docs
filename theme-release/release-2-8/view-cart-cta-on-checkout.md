@@ -1,4 +1,4 @@
-# [2.8] View Cart CTA on Checkout
+# View Cart CTA on Checkout
 
 ## Background & Problem Statement
 
@@ -31,9 +31,9 @@ Two complementary cart-return mechanisms have been added to the Shopify checkout
 | Persistence | Present on all checkout steps: delivery, shipping method, and payment. Not removed on step progression. |
 | Behaviour | Clicking navigates the user back to `/cart`. Cart contents are preserved (standard Shopify cart session behaviour). |
 
-<figure><img src="../../.gitbook/assets/2-8-view-cart-cta-on-checkout-1.png" alt="Screenshot 1 — [2.8] View Cart CTA on Checkout"></figure>
+<figure><img src="../../.gitbook/assets/2-8-view-cart-cta-on-checkout-1.png" alt="Screenshot 1 — View Cart CTA on Checkout"></figure>
 
-<figure><img src="../../.gitbook/assets/2-8-view-cart-cta-on-checkout-2.png" alt="Screenshot 2 — [2.8] View Cart CTA on Checkout"></figure>
+<figure><img src="../../.gitbook/assets/2-8-view-cart-cta-on-checkout-2.png" alt="Screenshot 2 — View Cart CTA on Checkout"></figure>
 
 ### COMPONENT 2 — Cart Icon (Existing, Enhanced Context)
 

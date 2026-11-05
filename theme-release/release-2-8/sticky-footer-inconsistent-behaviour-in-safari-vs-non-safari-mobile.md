@@ -1,4 +1,4 @@
-# [2.8] Sticky Footer — Inconsistent Behaviour in Safari vs Non-Safari (Mobile)
+# Sticky Footer — Inconsistent Behaviour in Safari vs Non-Safari (Mobile)
 
 ## Bug Description
 

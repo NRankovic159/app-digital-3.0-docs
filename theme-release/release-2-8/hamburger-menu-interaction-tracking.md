@@ -1,4 +1,4 @@
-# [2.8] Hamburger Menu Interaction Tracking
+# Hamburger Menu Interaction Tracking
 
 This document describes the new hamburger menu interaction tracking introduced in Release 2.8. Prior to this release, the mobile hamburger menu icon and its close button were not tracked — only the navigation items within the menu were captured. This update adds event tracking directly to the open and close gestures of the menu itself, enabling teams to measure how many users engage with the mobile navigation menu.
 
@@ -21,9 +21,9 @@ Fired when the user taps the hamburger icon (☰) to open the navigation menu.
 | `event_label` | `Hamburger Menu` | Human-readable label for the element |
 | `click_url` | `/collections/iphone-17-pro` | The URL of the page when the interaction occurs (contextual) |
 
-<figure><img src="../../.gitbook/assets/2-8-hamburger-menu-interaction-tracking-1.png" alt="Screenshot 1 — [2.8] Hamburger Menu Interaction Tracking"></figure>
+<figure><img src="../../.gitbook/assets/2-8-hamburger-menu-interaction-tracking-1.png" alt="Screenshot 1 — Hamburger Menu Interaction Tracking"></figure>
 
-<figure><img src="../../.gitbook/assets/2-8-hamburger-menu-interaction-tracking-2.png" alt="Screenshot 2 — [2.8] Hamburger Menu Interaction Tracking"></figure>
+<figure><img src="../../.gitbook/assets/2-8-hamburger-menu-interaction-tracking-2.png" alt="Screenshot 2 — Hamburger Menu Interaction Tracking"></figure>
 
 ### Event 2 — Hamburger Menu Close
 

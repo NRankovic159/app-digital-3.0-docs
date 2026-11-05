@@ -1,4 +1,4 @@
-# [2.8] PDP Page Size & Total Blocking Time Reduction
+# PDP Page Size & Total Blocking Time Reduction
 
 ## Overview
 

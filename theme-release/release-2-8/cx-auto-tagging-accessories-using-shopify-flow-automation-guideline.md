@@ -1,4 +1,4 @@
-# [2.8] CX_Auto-tagging Accessories Using Shopify Flow Automation Guideline
+# CX_Auto-tagging Accessories Using Shopify Flow Automation Guideline
 
 This guide provides APP partners with a step-by-step process for creating and managing an automated workflow -"Auto-tag Accessories After Data Push". This automation, built using the Shopify Flow application, streamlines the process of tagging accessory products based on specific keywords in their product information.
 

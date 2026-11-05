@@ -1,4 +1,4 @@
-# [2.8] CX_SMB Video Placement
+# CX_SMB Video Placement
 
 ## What Problem Does This Solve?
 
@@ -30,9 +30,9 @@ The section renders sequentially; the video always appears below the text blocks
 
 Customers visiting the partner’s Business landing page (SMB-facing storefront) see the video positioned directly beneath the “Apple for Small Business” heading and description section. The video is visible on both desktop and mobile breakpoints.
 
-<figure><img src="../../.gitbook/assets/2-8-cx-smb-video-placement-1.png" alt="Screenshot 1 — [2.8] CX_SMB Video Placement"></figure>
+<figure><img src="../../.gitbook/assets/2-8-cx-smb-video-placement-1.png" alt="Screenshot 1 — CX_SMB Video Placement"></figure>
 
-<figure><img src="../../.gitbook/assets/2-8-cx-smb-video-placement-2.png" alt="Screenshot 2 — [2.8] CX_SMB Video Placement"></figure>
+<figure><img src="../../.gitbook/assets/2-8-cx-smb-video-placement-2.png" alt="Screenshot 2 — CX_SMB Video Placement"></figure>
 
 ## Where Admins Configure It
 

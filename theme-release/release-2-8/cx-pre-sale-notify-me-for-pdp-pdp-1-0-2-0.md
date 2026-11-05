@@ -1,4 +1,4 @@
-# [2.8] CX_Pre-sale “Notify Me” for PDP (PDP 1.0 / 2.0)
+# CX_Pre-sale “Notify Me” for PDP (PDP 1.0 / 2.0)
 
 ## Overview
 
@@ -44,7 +44,7 @@ Navigate to: Shopify Admin → Online Store → Themes → Customize → Theme S
 
 Toggle on “Enable Notify me for pre-sale products” to activate the feature. All modal copy fields below it become active and can be customized to match the partner’s tone and language.
 
-<figure><img src="../../.gitbook/assets/2-8-cx-pre-sale-notify-me-for-pdp-pdp-1-0-2-1.png" alt="Screenshot 1 — [2.8] CX_Pre-sale “Notify Me” for PDP (PDP 1.0 / 2.0)"></figure>
+<figure><img src="../../.gitbook/assets/2-8-cx-pre-sale-notify-me-for-pdp-pdp-1-0-2-1.png" alt="Screenshot 1 — CX_Pre-sale “Notify Me” for PDP (PDP 1.0 / 2.0)"></figure>
 
 ## Where Customers See It
 

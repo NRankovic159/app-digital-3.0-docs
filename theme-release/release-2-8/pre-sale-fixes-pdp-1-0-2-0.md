@@ -1,4 +1,4 @@
-# [2.8] Pre-sale Fixes (PDP 1.0 / 2.0)
+# Pre-sale Fixes (PDP 1.0 / 2.0)
 
 ## Background & Problem Statement
 
@@ -27,9 +27,9 @@ Pre-sale status is controlled by a pre-sale flag/metafield set on the product in
 
 **Fix:** The Family Stripe component now correctly reads and renders the “From” pricing field for product cards, including Mac Accessories.
 
-<figure><img src="../../.gitbook/assets/2-8-pre-sale-fixes-pdp-1-0-2-0-1.png" alt="Screenshot 1 — [2.8] Pre-sale Fixes (PDP 1.0 / 2.0)"></figure>
+<figure><img src="../../.gitbook/assets/2-8-pre-sale-fixes-pdp-1-0-2-0-1.png" alt="Screenshot 1 — Pre-sale Fixes (PDP 1.0 / 2.0)"></figure>
 
-<figure><img src="../../.gitbook/assets/2-8-pre-sale-fixes-pdp-1-0-2-0-2.png" alt="Screenshot 2 — [2.8] Pre-sale Fixes (PDP 1.0 / 2.0)"></figure>
+<figure><img src="../../.gitbook/assets/2-8-pre-sale-fixes-pdp-1-0-2-0-2.png" alt="Screenshot 2 — Pre-sale Fixes (PDP 1.0 / 2.0)"></figure>
 
 Before:
 
@@ -46,9 +46,9 @@ After:
 
 **Fix:** The configuration switcher on pre-sale PDPs now correctly triggers a product detail refresh when a different variant is selected.
 
-<figure><img src="../../.gitbook/assets/2-8-pre-sale-fixes-pdp-1-0-2-0-3.png" alt="Screenshot 3 — [2.8] Pre-sale Fixes (PDP 1.0 / 2.0)"></figure>
+<figure><img src="../../.gitbook/assets/2-8-pre-sale-fixes-pdp-1-0-2-0-3.png" alt="Screenshot 3 — Pre-sale Fixes (PDP 1.0 / 2.0)"></figure>
 
-<figure><img src="../../.gitbook/assets/2-8-pre-sale-fixes-pdp-1-0-2-0-4.png" alt="Screenshot 4 — [2.8] Pre-sale Fixes (PDP 1.0 / 2.0)"></figure>
+<figure><img src="../../.gitbook/assets/2-8-pre-sale-fixes-pdp-1-0-2-0-4.png" alt="Screenshot 4 — Pre-sale Fixes (PDP 1.0 / 2.0)"></figure>
 
 Before:
 
@@ -66,7 +66,7 @@ After:
 
 **Fix:** The Store Side Drawer now checks the pre-sale flag before rendering store availability. Pre-sale products force a “Pickup unavailable” state for every store, regardless of actual stock data.
 
-<figure><img src="../../.gitbook/assets/2-8-pre-sale-fixes-pdp-1-0-2-0-5.png" alt="Screenshot 5 — [2.8] Pre-sale Fixes (PDP 1.0 / 2.0)"></figure>
+<figure><img src="../../.gitbook/assets/2-8-pre-sale-fixes-pdp-1-0-2-0-5.png" alt="Screenshot 5 — Pre-sale Fixes (PDP 1.0 / 2.0)"></figure>
 
 ### Issue 4 — Price Displayed for Pre-Sale Product in Bundle; Product Addable to Cart
 
@@ -80,9 +80,9 @@ After:
 
 **Fix:** Bundle item rendering now respects the pre-sale flag: price is suppressed and the add-to-cart action is disabled for any bundle item flagged as pre-sale.
 
-<figure><img src="../../.gitbook/assets/2-8-pre-sale-fixes-pdp-1-0-2-0-6.png" alt="Screenshot 6 — [2.8] Pre-sale Fixes (PDP 1.0 / 2.0)"></figure>
+<figure><img src="../../.gitbook/assets/2-8-pre-sale-fixes-pdp-1-0-2-0-6.png" alt="Screenshot 6 — Pre-sale Fixes (PDP 1.0 / 2.0)"></figure>
 
-<figure><img src="../../.gitbook/assets/2-8-pre-sale-fixes-pdp-1-0-2-0-7.png" alt="Screenshot 7 — [2.8] Pre-sale Fixes (PDP 1.0 / 2.0)"></figure>
+<figure><img src="../../.gitbook/assets/2-8-pre-sale-fixes-pdp-1-0-2-0-7.png" alt="Screenshot 7 — Pre-sale Fixes (PDP 1.0 / 2.0)"></figure>
 
 Before:
 
@@ -111,9 +111,9 @@ After:
 
 **Fix:** Both the Dynamic Banner and Sub-LOB module renderers now check for the pre-sale flag. When set, price output is suppressed and a “Notify Me” CTA is rendered in its place.
 
-<figure><img src="../../.gitbook/assets/2-8-pre-sale-fixes-pdp-1-0-2-0-8.png" alt="Screenshot 8 — [2.8] Pre-sale Fixes (PDP 1.0 / 2.0)"></figure>
+<figure><img src="../../.gitbook/assets/2-8-pre-sale-fixes-pdp-1-0-2-0-8.png" alt="Screenshot 8 — Pre-sale Fixes (PDP 1.0 / 2.0)"></figure>
 
-<figure><img src="../../.gitbook/assets/2-8-pre-sale-fixes-pdp-1-0-2-0-9.png" alt="Screenshot 9 — [2.8] Pre-sale Fixes (PDP 1.0 / 2.0)"></figure>
+<figure><img src="../../.gitbook/assets/2-8-pre-sale-fixes-pdp-1-0-2-0-9.png" alt="Screenshot 9 — Pre-sale Fixes (PDP 1.0 / 2.0)"></figure>
 
 Before:
 
@@ -130,7 +130,7 @@ After:
 
 **Fix:** CSS alignment for pre-sale product titles in the Family Stripe has been corrected to match the baseline alignment of standard product titles.
 
-<figure><img src="../../.gitbook/assets/2-8-pre-sale-fixes-pdp-1-0-2-0-10.png" alt="Screenshot 10 — [2.8] Pre-sale Fixes (PDP 1.0 / 2.0)"></figure>
+<figure><img src="../../.gitbook/assets/2-8-pre-sale-fixes-pdp-1-0-2-0-10.png" alt="Screenshot 10 — Pre-sale Fixes (PDP 1.0 / 2.0)"></figure>
 
 ### Issue 8 — FBT: Price Displayed for Pre-Sale Product
 
@@ -143,9 +143,9 @@ After:
 
 **Fix:** The FBT component now suppresses pricing for any item flagged as pre-sale.
 
-<figure><img src="../../.gitbook/assets/2-8-pre-sale-fixes-pdp-1-0-2-0-11.png" alt="Screenshot 11 — [2.8] Pre-sale Fixes (PDP 1.0 / 2.0)"></figure>
+<figure><img src="../../.gitbook/assets/2-8-pre-sale-fixes-pdp-1-0-2-0-11.png" alt="Screenshot 11 — Pre-sale Fixes (PDP 1.0 / 2.0)"></figure>
 
-<figure><img src="../../.gitbook/assets/2-8-pre-sale-fixes-pdp-1-0-2-0-12.png" alt="Screenshot 12 — [2.8] Pre-sale Fixes (PDP 1.0 / 2.0)"></figure>
+<figure><img src="../../.gitbook/assets/2-8-pre-sale-fixes-pdp-1-0-2-0-12.png" alt="Screenshot 12 — Pre-sale Fixes (PDP 1.0 / 2.0)"></figure>
 
 Before:
 
@@ -173,9 +173,9 @@ This issue covers two separate add-to-cart surfaces.
 
 **Fix:** Add-to-cart logic on both the Mini Cart and Side Drawer paths now validates the pre-sale flag before allowing the item to be added. Pre-sale products are blocked from being added to the cart from any surface. Additionally, price suppression is enforced on the Cart page for any pre-sale product that may have entered the cart through a prior session.
 
-<figure><img src="../../.gitbook/assets/2-8-pre-sale-fixes-pdp-1-0-2-0-13.png" alt="Screenshot 13 — [2.8] Pre-sale Fixes (PDP 1.0 / 2.0)"></figure>
+<figure><img src="../../.gitbook/assets/2-8-pre-sale-fixes-pdp-1-0-2-0-13.png" alt="Screenshot 13 — Pre-sale Fixes (PDP 1.0 / 2.0)"></figure>
 
-<figure><img src="../../.gitbook/assets/2-8-pre-sale-fixes-pdp-1-0-2-0-14.png" alt="Screenshot 14 — [2.8] Pre-sale Fixes (PDP 1.0 / 2.0)"></figure>
+<figure><img src="../../.gitbook/assets/2-8-pre-sale-fixes-pdp-1-0-2-0-14.png" alt="Screenshot 14 — Pre-sale Fixes (PDP 1.0 / 2.0)"></figure>
 
 Before:
 

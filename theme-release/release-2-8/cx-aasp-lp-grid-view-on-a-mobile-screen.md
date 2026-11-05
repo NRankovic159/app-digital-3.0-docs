@@ -1,4 +1,4 @@
-# [2.8] CX_ AASP LP – Grid view on a mobile screen
+# CX_ AASP LP – Grid view on a mobile screen
 
 ## 1. Grid View Feature Overview — AASP Repair and Service Landing Page
 
@@ -16,7 +16,7 @@ Partners require a mobile landing page layout that allows customers to see all a
 
 **Figma Link :** For APPs to implement please refer to the box folder : https://apple.box.com/s/49ula877by4hyypqs65qln6gbpt2zn2l
 
-<figure><img src="../../.gitbook/assets/2-8-cx-aasp-lp-grid-view-on-a-mobile-screen-1.png" alt="Screenshot 1 — [2.8] CX_ AASP LP – Grid view on a mobile screen"></figure>
+<figure><img src="../../.gitbook/assets/2-8-cx-aasp-lp-grid-view-on-a-mobile-screen-1.png" alt="Screenshot 1 — CX_ AASP LP – Grid view on a mobile screen"></figure>
 
 ## 2. What Is Grid View?
 

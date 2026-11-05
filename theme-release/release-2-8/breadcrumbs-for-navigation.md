@@ -1,4 +1,4 @@
-# [2.8] Breadcrumbs for Navigation
+# Breadcrumbs for Navigation
 
 ## Overview
 
@@ -22,11 +22,11 @@ Breadcrumbs in the Shopify theme operate differently depending on the type of pa
 
 Before 2.8 release:
 
-<figure><img src="../../.gitbook/assets/2-8-breadcrumbs-for-navigation-1.png" alt="Screenshot 1 — [2.8] Breadcrumbs for Navigation"></figure>
+<figure><img src="../../.gitbook/assets/2-8-breadcrumbs-for-navigation-1.png" alt="Screenshot 1 — Breadcrumbs for Navigation"></figure>
 
 After 2.8 reelease:
 
-<figure><img src="../../.gitbook/assets/2-8-breadcrumbs-for-navigation-2.png" alt="Screenshot 2 — [2.8] Breadcrumbs for Navigation"></figure>
+<figure><img src="../../.gitbook/assets/2-8-breadcrumbs-for-navigation-2.png" alt="Screenshot 2 — Breadcrumbs for Navigation"></figure>
 
 ## Core Behaviour Rules
 

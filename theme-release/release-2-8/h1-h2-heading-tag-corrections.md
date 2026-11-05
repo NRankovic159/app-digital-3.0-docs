@@ -1,4 +1,4 @@
-# [2.8] H1 & H2 Heading Tag Corrections
+# H1 & H2 Heading Tag Corrections
 
 ## Background
 

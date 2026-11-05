@@ -1,4 +1,4 @@
-# [2.8] — Bugs & Issues Fixed
+# Bugs & Issues Fixed
 
 This document provides an overview of all bugs and issues resolved as part of the 2.8 release. The engineering and QA teams have addressed a total of 58 reported items spanning multiple areas of the platform, including BOPIS (Buy Online, Pick Up In Store), Cart behaviour, PDP 1.0 and 2.0, Pre-Sale product handling, AppleCare / Theft & Loss flows, navigation, search, and SEO/accessibility improvements. Each fix has been tested and verified against the expected results described below.
 

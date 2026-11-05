@@ -1,4 +1,4 @@
-# [2.8] Search Bar Initiation Tracking
+# Search Bar Initiation Tracking
 
 This document describes the search bar initiation tracking introduced in Release 2.8. The feature captures a new engagement event at the moment a user clicks or taps into the search bar — before any keyword has been typed. This provides visibility into search intent that was previously unmeasured, allowing teams to understand how many users attempt to search without necessarily completing a query.
 
@@ -6,7 +6,7 @@ This document describes the search bar initiation tracking introduced in Release
 This event fires on search bar focus/click only — BEFORE the user types any keyword. It is distinct from existing search query events and is designed to measure top-of-funnel search intent. No search term is captured at this stage.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/2-8-search-bar-initiation-tracking-1.png" alt="Screenshot 1 — [2.8] Search Bar Initiation Tracking"></figure>
+<figure><img src="../../.gitbook/assets/2-8-search-bar-initiation-tracking-1.png" alt="Screenshot 1 — Search Bar Initiation Tracking"></figure>
 
 ## Scope & Prerequisites
 

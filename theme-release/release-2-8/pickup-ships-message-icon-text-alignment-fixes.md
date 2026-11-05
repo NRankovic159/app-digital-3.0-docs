@@ -1,4 +1,4 @@
-# [2.8] Pickup / Ships Message — Icon & Text Alignment Fixes
+# Pickup / Ships Message — Icon & Text Alignment Fixes
 
 ## Overview
 
@@ -30,9 +30,9 @@ On the Cart page, the shipping delivery message (“This specific product is ver
 | ✕ Icon appears at top-left while text block floats independently | ✓ Consistent alignment with the Pickup row directly above |
 | ✕ Multi-line text wraps but does not align to icon baseline | ✓ Multi-line text wraps correctly while remaining aligned to icon |
 
-<figure><img src="../../.gitbook/assets/2-8-pickup-ships-message-icon-text-alignment-1.png" alt="Screenshot 1 — [2.8] Pickup / Ships Message — Icon & Text Alignment Fixes"></figure>
+<figure><img src="../../.gitbook/assets/2-8-pickup-ships-message-icon-text-alignment-1.png" alt="Screenshot 1 — Pickup / Ships Message — Icon & Text Alignment Fixes"></figure>
 
-<figure><img src="../../.gitbook/assets/2-8-pickup-ships-message-icon-text-alignment-2.png" alt="Screenshot 2 — [2.8] Pickup / Ships Message — Icon & Text Alignment Fixes"></figure>
+<figure><img src="../../.gitbook/assets/2-8-pickup-ships-message-icon-text-alignment-2.png" alt="Screenshot 2 — Pickup / Ships Message — Icon & Text Alignment Fixes"></figure>
 
 Before:
 
@@ -48,9 +48,9 @@ On PDP 1.0, the Pickup icon (store/collection icon) was rendered at an incorrect
 | ✕ Icon visually dominates the row; inconsistent with Ships icon size | ✓ Visual parity with the Ships icon in the same section |
 | ✕ Icon scale does not match the “Get it fast” section visual language | ✓ Consistent icon sizing across Pickup and Ships rows on PDP 1.0 |
 
-<figure><img src="../../.gitbook/assets/2-8-pickup-ships-message-icon-text-alignment-3.png" alt="Screenshot 3 — [2.8] Pickup / Ships Message — Icon & Text Alignment Fixes"></figure>
+<figure><img src="../../.gitbook/assets/2-8-pickup-ships-message-icon-text-alignment-3.png" alt="Screenshot 3 — Pickup / Ships Message — Icon & Text Alignment Fixes"></figure>
 
-<figure><img src="../../.gitbook/assets/2-8-pickup-ships-message-icon-text-alignment-4.png" alt="Screenshot 4 — [2.8] Pickup / Ships Message — Icon & Text Alignment Fixes"></figure>
+<figure><img src="../../.gitbook/assets/2-8-pickup-ships-message-icon-text-alignment-4.png" alt="Screenshot 4 — Pickup / Ships Message — Icon & Text Alignment Fixes"></figure>
 
 Before:
 
@@ -60,9 +60,9 @@ After:
 
 PDP 2.0 had two distinct issues within the same component. First, the delivery message text was not aligned with the shipping icon (same root cause as Bug 1). Second, and more significantly, the Pickup time value (“1-2 days” in green) was rendered in a separate, detached area of the row rather than inline within the message text — causing the time value to appear disconnected from its context.
 
-<figure><img src="../../.gitbook/assets/2-8-pickup-ships-message-icon-text-alignment-5.png" alt="Screenshot 5 — [2.8] Pickup / Ships Message — Icon & Text Alignment Fixes"></figure>
+<figure><img src="../../.gitbook/assets/2-8-pickup-ships-message-icon-text-alignment-5.png" alt="Screenshot 5 — Pickup / Ships Message — Icon & Text Alignment Fixes"></figure>
 
-<figure><img src="../../.gitbook/assets/2-8-pickup-ships-message-icon-text-alignment-6.png" alt="Screenshot 6 — [2.8] Pickup / Ships Message — Icon & Text Alignment Fixes"></figure>
+<figure><img src="../../.gitbook/assets/2-8-pickup-ships-message-icon-text-alignment-6.png" alt="Screenshot 6 — Pickup / Ships Message — Icon & Text Alignment Fixes"></figure>
 
 | BUG 3 — BEFORE (PDP 2.0) | FIX — AFTER (PDP 2.0) |
 |---|---|

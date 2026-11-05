@@ -1,4 +1,4 @@
-# [2.8] Homepage Banner & Video Slider Tracking
+# Homepage Banner & Video Slider Tracking
 
 ## Overview
 
@@ -64,7 +64,7 @@ The top-performing banner in the example data is /collections/macbook-neo, accou
 
 Report: Video Plays (by Click URL) — Top 10 Click URLs by Video Play volume. Device breakdown columns shown for Mobile Phone and Other. Full report includes Tablet column.
 
-<figure><img src="../../.gitbook/assets/2-8-homepage-banner-video-slider-tracking-1.png" alt="Screenshot 1 — [2.8] Homepage Banner & Video Slider Tracking"></figure>
+<figure><img src="../../.gitbook/assets/2-8-homepage-banner-video-slider-tracking-1.png" alt="Screenshot 1 — Homepage Banner & Video Slider Tracking"></figure>
 
 | Click URL (Video Slider) | Video Play | Video Pause | Video Complete | VP Mobile | VC Mobile | VC Other |
 |---|---|---|---|---|---|---|

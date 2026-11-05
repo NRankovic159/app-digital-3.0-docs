@@ -1,10 +1,10 @@
-# [2.8] Notify Me Flow Tracking
+# Notify Me Flow Tracking
 
 This document describes the Notify Me flow tracking introduced in Release 2.8. When a product is out of stock, customers are presented with a “Notify me” option in two distinct locations: a button on the Product Listing Page (PLP) and a link on the Product Detail Page (PDP). Both entry points open the same modal, and all interactions across the full flow are now tracked as marketing engagement events.
 
-<figure><img src="../../.gitbook/assets/2-8-notify-me-flow-tracking-1.png" alt="Screenshot 1 — [2.8] Notify Me Flow Tracking"></figure>
+<figure><img src="../../.gitbook/assets/2-8-notify-me-flow-tracking-1.png" alt="Screenshot 1 — Notify Me Flow Tracking"></figure>
 
-<figure><img src="../../.gitbook/assets/2-8-notify-me-flow-tracking-2.png" alt="Screenshot 2 — [2.8] Notify Me Flow Tracking"></figure>
+<figure><img src="../../.gitbook/assets/2-8-notify-me-flow-tracking-2.png" alt="Screenshot 2 — Notify Me Flow Tracking"></figure>
 
 ## Scope & Prerequisites
 
