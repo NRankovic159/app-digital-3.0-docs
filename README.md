@@ -29,8 +29,7 @@ layout:
 **4 new announcements** — see [Recently Updated](./#recently-updated) below for the latest 3.0 additions.
 {% endhint %}
 
-| [![Store 2.8](.gitbook/assets/tile-1.svg)](theme-release/theme-release-2-8.md) | [![AOP](.gitbook/assets/tile-2.svg)](./#quick-start) | [![NPI Operations](.gitbook/assets/tile-3.svg)](npi-operations/) | [![CX Guidelines](.gitbook/assets/tile-4.svg)](cx-guidelines/) | [![8 Getting Started Resources](.gitbook/assets/tile-5.svg)](getting-started/) |
-| ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+<table data-header-hidden><thead><tr><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td><a href="theme-release/theme-release-2-8.md"><img src=".gitbook/assets/tile-1.svg" alt="Store 2.8" width="160"></a></td><td><a href="./#quick-start"><img src=".gitbook/assets/tile-2.svg" alt="AOP" width="160"></a></td><td><a href="npi-operations/"><img src=".gitbook/assets/tile-3.svg" alt="NPI Operations" width="160"></a></td><td><a href="cx-guidelines/"><img src=".gitbook/assets/tile-4.svg" alt="CX Guidelines" width="160"></a></td><td><a href="./#quick-start"><img src=".gitbook/assets/tile-5.svg" alt="FAQ" width="160"></a></td></tr></tbody></table>
 
 ## Quick Start
 
