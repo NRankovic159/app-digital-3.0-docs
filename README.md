@@ -21,9 +21,7 @@ layout:
     visible: true
 ---
 
-## APP Digital — 3.0 Documentation
-
-### **Welcome to the APP Digital Program 3.0 documentation hub.**
+## Welcome to the APP Digital Program
 
 {% hint style="info" %}
 **1 new announcement** — see [2.8 Theme Release](theme-release/theme-release-2-8.md)
