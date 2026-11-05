@@ -19,6 +19,12 @@ Where to go for UAT, product content (NPI) support, and theme support.
 </thead>
 <tbody>
 <tr>
+<td><strong>FAQ</strong></td>
+<td>Answers to frequently asked questions.</td>
+<td><a href="faq.md">faq.md</a></td>
+<td></td>
+</tr>
+<tr>
 <td><strong>Partner UAT</strong></td>
 <td>What partners test and how to file UAT findings.</td>
 <td><a href="partner-uat.md">partner-uat.md</a></td>

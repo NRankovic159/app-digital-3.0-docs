@@ -29,7 +29,7 @@ layout:
 
 |  |  |  |  |  |
 |--|--|--|--|--|
-| [![Store 2.8](.gitbook/assets/tile-1.svg)](theme-release/theme-release-2-8.md) | [![AOP](.gitbook/assets/tile-2.svg)](./#quick-start) | [![NPI Operations](.gitbook/assets/tile-3.svg)](npi-operations/) | [![CX Guidelines](.gitbook/assets/tile-4.svg)](cx-guidelines/) | [![FAQ](.gitbook/assets/tile-5.svg)](./#quick-start) |
+| [![Store 2.8](.gitbook/assets/tile-1.svg)](theme-release/theme-release-2-8.md) | [![AOP](.gitbook/assets/tile-2.svg)](./#quick-start) | [![NPI Operations](.gitbook/assets/tile-3.svg)](npi-operations/) | [![CX Guidelines](.gitbook/assets/tile-4.svg)](cx-guidelines/) | [![FAQ](.gitbook/assets/tile-5.svg)](support/faq.md) |
 
 ## Quick Start
 

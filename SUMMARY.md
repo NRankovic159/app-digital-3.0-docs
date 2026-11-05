@@ -83,6 +83,7 @@
   * [Accessibility & Code Optimizations](features-functionality/accessibility-code-optimizations/README.md)
   * [Analytics & Tracking](features-functionality/analytics-tracking/README.md)
 * [Support](support/README.md)
+  * [FAQ](support/faq.md)
   * [Partner UAT](support/partner-uat.md)
   * [Product Content Support (NPI)](support/product-content-support-npi.md)
   * [Theme Support](support/theme-support.md)
