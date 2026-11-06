@@ -1,7 +1,7 @@
-# Store 2.8 Release Notes
+# 2.8 Release Notes
 
 {% file src="../../.gitbook/assets/Store-2.8-Release-Notes.pdf" %}
-Store 2.8 Release Notes
+2.8 Release Notes
 {% endfile %}
 
 ## Overview

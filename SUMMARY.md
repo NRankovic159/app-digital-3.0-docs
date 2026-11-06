@@ -32,7 +32,7 @@
       * [3.0](theme-release/release-notes-3-0-0.md)
   * [2.8 Theme Release](theme-release/theme-release-2-8.md)
     * [Release Notes](theme-release/release-notes-2-8.md)
-      * [Store 2.8 Release Notes](theme-release/release-2-8/store-2-8-release-notes.md)
+      * [2.8 Release Notes](theme-release/release-2-8/store-2-8-release-notes.md)
     * [APP Shopify Theme Release 2.8](theme-release/release-2-8/app-shopify-theme-release-2-8.md)
     * [APP Shopify Checkout Extension 2.8](theme-release/release-2-8/app-shopify-checkout-extension-2-8.md)
     * [CX_Theft & Loss - Paid Upfront Option for PDP 1.0 & 2.0 Guideline](theme-release/release-2-8/cx-theft-loss-paid-upfront-option-for-pdp-1-0-2-0-guideline.md)
