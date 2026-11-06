@@ -1,6 +1,6 @@
 ---
 layout:
-  width: wide
+  width: default
   title:
     visible: false
   description:
@@ -23,9 +23,7 @@ layout:
 
 ## Welcome to the APP Digital Program
 
-|  |
-|--|
-| [![1 new announcement — see 2.8 Theme Release](.gitbook/assets/announcement.svg)](theme-release/theme-release-2-8.md) |
+[![1 new announcement — see 2.8 Theme Release](.gitbook/assets/announcement.svg)](theme-release/theme-release-2-8.md)
 
 |  |  |  |  |  |
 |--|--|--|--|--|
