@@ -24,7 +24,7 @@ layout:
 ## Welcome to the APP Digital Program
 
 {% hint style="info" %}
-**1 new announcement** — see [2.8 Theme Release](theme-release/theme-release-2-8.md)
+<p align="center"><strong>1 new announcement</strong> — see <a href="theme-release/theme-release-2-8.md">2.8 Theme Release</a></p>
 {% endhint %}
 
 |  |  |  |  |  |
