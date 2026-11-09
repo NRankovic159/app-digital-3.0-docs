@@ -23,6 +23,8 @@ layout:
 
 ## Welcome to the APP Digital Program
 
+Official technical documentation, theme code releases, NPI launch protocols, CaaS integration specs and CX design systems for global Apple Premium Partner e-commerce operations.
+
 {% hint style="info" %}
 **1 new announcement** — see [2.8 Theme Release](theme-release/theme-release-2-8.md)
 {% endhint %}
@@ -30,6 +32,24 @@ layout:
 |  |  |  |  |  |
 |--|--|--|--|--|
 | [![Store 2.8](.gitbook/assets/tile-1.svg)](theme-release/theme-release-2-8.md) | [![AOP](.gitbook/assets/tile-2.svg)](./#quick-start) | [![NPI Operations](.gitbook/assets/tile-3.svg)](npi-operations/) | [![CX Guidelines](.gitbook/assets/tile-4.svg)](cx-guidelines/) | [![FAQ](.gitbook/assets/tile-5.svg)](support/faq.md) |
+
+## What's New
+
+Pick your platform to see the latest highlights, or open the full explorer to filter by version.
+
+{% tabs %}
+
+{% tab title="Shopify Partner View" %}
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>AppleCare+ PDP Auto-Bundling Drawer</strong></td><td>Attach AppleCare+ coverage from the PDP capacity selector.</td><td><a href="features-functionality/applecare-protection-plans/README.md">features-functionality/applecare-protection-plans/README.md</a></td><td></td></tr><tr><td><strong>Apple Pay One-Touch Express Checkout</strong></td><td>Native Apple Pay sheet that skips the traditional cart page.</td><td><a href="features-functionality/cart-checkout/README.md">features-functionality/cart-checkout/README.md</a></td><td></td></tr><tr><td><strong>Trade-In Valuation Widget</strong></td><td>Interactive trade-in credit estimator on iPhone and Mac PDPs.</td><td><a href="features-functionality/trade-in/README.md">features-functionality/trade-in/README.md</a></td><td></td></tr></tbody></table>
+{% endtab %}
+
+{% tab title="CX Solution (CX-S) View" %}
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>PDP AppleCare+ Bottom Sheet Modal</strong></td><td>Figma spec for AppleCare+ terms, breakdown and legal disclosures.</td><td><a href="features-functionality/applecare-protection-plans/README.md">features-functionality/applecare-protection-plans/README.md</a></td><td></td></tr><tr><td><strong>SF Pro Typography &amp; Spacing Scale</strong></td><td>Typography pairings and 8pt grid tokens for custom storefronts.</td><td><a href="cx-guidelines/README.md">cx-guidelines/README.md</a></td><td></td></tr><tr><td><strong>Device Color Swatch Switcher</strong></td><td>Finish swatch interaction with accessible labels.</td><td><a href="cx-guidelines/README.md">cx-guidelines/README.md</a></td><td></td></tr></tbody></table>
+{% endtab %}
+
+{% endtabs %}
+
+[See all updates by version and platform →](theme-release/whats-new.md)
 
 ## Quick Start
 
