@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: APP Digital Partner Hub — Knowledge Wiki (new design)
+  structure:
+    - type: space
+      key: space-new-design
+      title: APP Digital Partner Hub
+      path: hub
+      default: true
+      content:
+        directory: ./
