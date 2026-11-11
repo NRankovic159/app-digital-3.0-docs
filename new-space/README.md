@@ -1,20 +1,23 @@
-# Apple Premium Partner Digital Hub
+---
+layout:
+  width: wide
+  title:
+    visible: false
+---
+
+## Apple Premium Partner Digital Hub
 
 Official technical documentation, theme code releases, NPI launch protocols, CaaS integration specs and CX design systems for global Apple Premium Partner e-commerce operations.
 
-`Shopify Theme: v3.4.1 (Stable)` &nbsp; `CX-S Figma Token Kit: v2026.3`
-
-{% hint style="warning" %}
-**Placeholder content.** This page follows the partners' draft of the Knowledge Wiki. All data (versions, dates, metrics, contacts) is an example to be replaced with real information.
-{% endhint %}
+🟢 **Shopify Theme: v3.4.1 (Stable)** &nbsp;&nbsp; 🟣 **CX-S Figma Token Kit: v2026.3**
 
 ## ⚡ Latest Announcements & Operational Notices
 
 | Tag | Announcement | Date |
 |---|---|---|
-| `NPI PROTOCOL` | **Upcoming Spring Keynote NPI Readiness:** All partners must review the zero-hour embargo asset synchronization checklist by Friday. | Nov 04, 2026 |
-| `THEME RELEASE` | **Shopify Theme v3.4.1 Released:** Includes PDP Apple Care+ bundling selector, iOS 26 Safari WebKit fixes, and Express Pay improvements. | Oct 28, 2026 |
-| `CAAS UPDATE` | **CaaS API v2.2 Schema Deprecation:** Automated product feed delta pushes will require OAuth2 Bearer token authentication starting Dec 1. | Oct 22, 2026 |
+| 🔴 **NPI PROTOCOL** | **Upcoming Spring Keynote NPI Readiness:** All partners must review the zero-hour embargo asset synchronization checklist by Friday. | Nov 04, 2026 |
+| 🟢 **THEME RELEASE** | **Shopify Theme v3.4.1 Released:** Includes PDP Apple Care+ bundling selector, iOS 26 Safari WebKit fixes, and Express Pay improvements. | Oct 28, 2026 |
+| 🟣 **CAAS UPDATE** | **CaaS API v2.2 Schema Deprecation:** Automated product feed delta pushes will require OAuth2 Bearer token authentication starting Dec 1. | Oct 22, 2026 |
 
 ## What's New Since Your Version
 
@@ -61,3 +64,7 @@ Select your platform, then find your baseline to see the key highlights and upgr
 ## Core Partner Workstreams & Documentation
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>🚀 Theme Releases &amp; Cadence</strong></td><td>Shopify · Sprint release calendars, quarterly minor versions, patch hotfix SLAs and release packaging. Includes the version changelog and diffs.</td><td><a href="theme-releases/release-schedule-and-sla.md">theme-releases/release-schedule-and-sla.md</a></td><td></td></tr><tr><td><strong>🎨 CX Guidelines &amp; Figma Tokens</strong></td><td>CX Solution · Apple-approved Figma design tokens and UI components for custom e-com platforms, plus merchandising and copy compliance.</td><td><a href="cx-guidelines/figma-design-tokens.md">cx-guidelines/figma-design-tokens.md</a></td><td></td></tr><tr><td><strong>🔒 NPI Operations &amp; Embargo Protocol</strong></td><td>All partners · Launch operations for Apple New Product Introductions: asset sync, pre-order cutovers and zero-hour activation.</td><td><a href="npi-operations/npi-readiness-embargo-cutover.md">npi-operations/npi-readiness-embargo-cutover.md</a></td><td></td></tr><tr><td><strong>⚡ CaaS Onboarding (Catalog Feed Push)</strong></td><td>All partners · Automated Apple Catalog-as-a-Service data feeds that push localized specs, imagery and SKUs into your store.</td><td><a href="caas/caas-api-onboarding-feeds.md">caas/caas-api-onboarding-feeds.md</a></td><td></td></tr><tr><td><strong>🎫 Wrike Support &amp; Ticket SLAs</strong></td><td>All partners · Logging partner bugs, requesting theme modifications, triage priorities and turn-around SLAs.</td><td><a href="support-operations/wrike-ticket-escalation-sla.md">support-operations/wrike-ticket-escalation-sla.md</a></td><td></td></tr><tr><td><strong>📊 Analytics &amp; E-Commerce Telemetry</strong></td><td>All partners · Standardized dataLayer event taxonomy, funnel tracking and Apple telemetry reporting requirements.</td><td><a href="support-operations/analytics-telemetry.md">support-operations/analytics-telemetry.md</a></td><td></td></tr></tbody></table>
+
+{% hint style="warning" %}
+**Placeholder content.** This page follows the partners' draft of the Knowledge Wiki. All data (versions, dates, metrics, contacts) is an example to be replaced with real information.
+{% endhint %}

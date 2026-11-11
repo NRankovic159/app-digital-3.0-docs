@@ -1,3 +1,8 @@
+---
+layout:
+  width: wide
+---
+
 # AppleCare+ PDP Auto-Bundling & Upsell Drawer
 
 Enables customers to seamlessly configure and attach official AppleCare+ warranty coverage during device configuration on the Product Detail Page (PDP).
@@ -5,10 +10,6 @@ Enables customers to seamlessly configure and attach official AppleCare+ warrant
 | Workstream / Domain | Audience Scope | Support Intake Channel | Minimum Theme Required |
 |---|---|---|---|
 | Features & Functionalities | All Global Partners (Shopify & CX-S) | Wrike: Feature Support #APP-FEAT | v3.4.0 (Shopify) / Figma Token Kit v2026.3 (CX-S) |
-
-{% hint style="warning" %}
-**Placeholder content.** This page follows the partners' draft of the Knowledge Wiki. All data (versions, dates, metrics, contacts) is an example to be replaced with real information.
-{% endhint %}
 
 {% tabs %}
 
@@ -77,3 +78,7 @@ For custom platform partners (Magento, SAP Commerce, headless React):
 {% endtab %}
 
 {% endtabs %}
+
+{% hint style="warning" %}
+**Placeholder content.** This page follows the partners' draft of the Knowledge Wiki. All data (versions, dates, metrics, contacts) is an example to be replaced with real information.
+{% endhint %}

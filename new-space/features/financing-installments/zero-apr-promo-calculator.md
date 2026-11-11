@@ -1,3 +1,8 @@
+---
+layout:
+  width: wide
+---
+
 # 0% APR Promo Calculator
 
 0% APR Promo Calculator — part of 🏦 Financing & Installments.
@@ -5,10 +10,6 @@
 | Workstream / Domain | Audience Scope | Support Intake Channel | Minimum Theme Required |
 |---|---|---|---|
 | Features & Functionalities | All Global Partners (Shopify & CX-S) | Wrike: Feature Support #APP-FEAT | To be confirmed |
-
-{% hint style="warning" %}
-**Placeholder content.** This page follows the partners' draft of the Knowledge Wiki. All data (versions, dates, metrics, contacts) is an example to be replaced with real information.
-{% endhint %}
 
 {% tabs %}
 
@@ -41,3 +42,7 @@ _Placeholder: to be completed with the feature's real content._
 {% endtab %}
 
 {% endtabs %}
+
+{% hint style="warning" %}
+**Placeholder content.** This page follows the partners' draft of the Knowledge Wiki. All data (versions, dates, metrics, contacts) is an example to be replaced with real information.
+{% endhint %}

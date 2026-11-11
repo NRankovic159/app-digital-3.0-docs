@@ -1,3 +1,8 @@
+---
+layout:
+  width: wide
+---
+
 # Master Feature Directory & Capability Matrix (117 Features)
 
 Comprehensive architectural catalog of all 117 commercial features and technical capabilities supported by APP Digital across 15 operational capability areas.
@@ -5,10 +10,6 @@ Comprehensive architectural catalog of all 117 commercial features and technical
 | Workstream / Domain | Audience Scope | Support Intake Channel | Minimum Theme Required |
 |---|---|---|---|
 | Platform Capabilities Architecture | All Global Partners (Shopify & CX-S) | Wrike: Features Backlog Queue | Indexed Across All Theme Versions |
-
-{% hint style="warning" %}
-**Placeholder content.** This page follows the partners' draft of the Knowledge Wiki. All data (versions, dates, metrics, contacts) is an example to be replaced with real information.
-{% endhint %}
 
 {% hint style="info" %}
 
@@ -34,3 +35,7 @@ Comprehensive architectural catalog of all 117 commercial features and technical
 | **13. ✨ Personalization & Engraving** | 4 Features | AirPods / AirTag live engraving preview, emoji keyboard filter, character limit validator, production API payload | Shopify v3.3+ |
 | **14. 👤 Accounts & Order Tracking** | 6 Features | Apple Sign-In authorization button, past device warranty status lookup, carrier tracking timeline, invoice download | All Partners |
 | **15. ⚖️ Legal & Brand Disclosures** | 4 Features | Mandatory trademark footer boilerplate, environmental packaging disclosure, battery life claim footnotes | Mandatory Global |
+
+{% hint style="warning" %}
+**Placeholder content.** This page follows the partners' draft of the Knowledge Wiki. All data (versions, dates, metrics, contacts) is an example to be replaced with real information.
+{% endhint %}

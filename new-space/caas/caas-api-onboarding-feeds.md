@@ -1,3 +1,8 @@
+---
+layout:
+  width: wide
+---
+
 # Catalog-as-a-Service (CaaS PDX) Onboarding & Data Delivery Guide
 
 Integration guide for receiving official Apple product master data, localized technical specs, imagery, and marketing copy via CaaS PDX (Product Data eXchange).
@@ -5,10 +10,6 @@ Integration guide for receiving official Apple product master data, localized te
 | Workstream / Domain | Audience Scope | Support Intake Channel | Minimum Theme Required |
 |---|---|---|---|
 | CaaS Operations | All Global Partners (Shopify & CX-S) | Wrike Queue #APP-CAAS | CaaS PDX v2.4 / Shopify Theme v3.0+ |
-
-{% hint style="warning" %}
-**Placeholder content.** This page follows the partners' draft of the Knowledge Wiki. All data (versions, dates, metrics, contacts) is an example to be replaced with real information.
-{% endhint %}
 
 {% hint style="info" %}
 
@@ -95,3 +96,7 @@ Standard for custom platforms (CX-S) and multi-locale Shopify partners who inges
 
 - **Missed / Expired Email Link:** Email `app-caas-pdx@apple.com` or ping in `#app-caas-ops` with your Partner ID.
 - **Missing SKU or Price Discrepancy:** File a Sev-2 ticket in Wrike with the affected `apple_part_number` and expected vs actual values.
+
+{% hint style="warning" %}
+**Placeholder content.** This page follows the partners' draft of the Knowledge Wiki. All data (versions, dates, metrics, contacts) is an example to be replaced with real information.
+{% endhint %}

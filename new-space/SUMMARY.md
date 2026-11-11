@@ -1,16 +1,16 @@
 # Table of contents
 
-* [Hub & Overview](README.md)
-* [What's New in Version Explorer](whats-new.md)
+* [🏠 Hub & Overview](README.md)
+* [🔍 What's New in Version Explorer](whats-new.md)
 
 ## 1. Theme Releases & Cadence
 
-* [Release Schedule & SLA](theme-releases/release-schedule-and-sla.md)
-* [Changelog by Version](theme-releases/changelog-by-version.md)
+* [🚀 Release Schedule & SLA](theme-releases/release-schedule-and-sla.md)
+* [📜 Changelog by Version](theme-releases/changelog-by-version.md)
 
 ## 2. Features & Functionalities (117 Features)
 
-* [Feature Directory & Matrix](features/feature-directory-and-matrix.md)
+* [📚 Feature Directory & Matrix](features/feature-directory-and-matrix.md)
 * [📱 PDP & Device Config (12)](features/pdp-device-config/README.md)
   * [AppleCare+ Auto-Bundling](features/pdp-device-config/applecare-auto-bundling.md)
   * [Trade-In Valuation Widget](features/pdp-device-config/trade-in-valuation-widget.md)
@@ -33,21 +33,21 @@
 
 ## 3. CX Guidelines & Figma
 
-* [CX-S Figma Design Tokens](cx-guidelines/figma-design-tokens.md)
-* [Brand Merchandising Rules](cx-guidelines/brand-merchandising-rules.md)
+* [🎨 CX-S Figma Design Tokens](cx-guidelines/figma-design-tokens.md)
+* [🛍️ Brand Merchandising Rules](cx-guidelines/brand-merchandising-rules.md)
 
 ## 4. NPI Operations (Launches)
 
-* [NPI Readiness & Embargo Cutover](npi-operations/npi-readiness-embargo-cutover.md)
+* [🔒 NPI Readiness & Embargo Cutover](npi-operations/npi-readiness-embargo-cutover.md)
 
 ## 5. CaaS (Product Data Push)
 
-* [CaaS API Onboarding & Feeds](caas/caas-api-onboarding-feeds.md)
+* [⚡ CaaS API Onboarding & Feeds](caas/caas-api-onboarding-feeds.md)
 
 ## 6. Support & Operations
 
-* [Wrike Ticket & Escalation SLA](support-operations/wrike-ticket-escalation-sla.md)
-* [Analytics & E-Com Telemetry](support-operations/analytics-telemetry.md)
+* [🎫 Wrike Ticket & Escalation SLA](support-operations/wrike-ticket-escalation-sla.md)
+* [📊 Analytics & E-Com Telemetry](support-operations/analytics-telemetry.md)
 
 ## Wiki Templates & Governance
 

@@ -1,3 +1,8 @@
+---
+layout:
+  width: wide
+---
+
 # Apple Pay & One-Touch Express Checkout
 
 Integration guidelines for displaying official Apple Pay branded express payment buttons on Product Detail Pages and Mini-Cart drawers.
@@ -5,10 +10,6 @@ Integration guidelines for displaying official Apple Pay branded express payment
 | Workstream / Domain | Audience Scope | Support Intake Channel | Minimum Theme Required |
 |---|---|---|---|
 | Features & Functionalities | All Global Partners (Shopify & CX-S) | Wrike: Feature Support #APP-FEAT | v3.2.0 (Shopify) / CX-S Guidelines v2026.1 |
-
-{% hint style="warning" %}
-**Placeholder content.** This page follows the partners' draft of the Knowledge Wiki. All data (versions, dates, metrics, contacts) is an example to be replaced with real information.
-{% endhint %}
 
 {% tabs %}
 
@@ -48,3 +49,7 @@ Apple Pay is supported natively via Shopify Payments or authorized gateways (Ady
 {% endtab %}
 
 {% endtabs %}
+
+{% hint style="warning" %}
+**Placeholder content.** This page follows the partners' draft of the Knowledge Wiki. All data (versions, dates, metrics, contacts) is an example to be replaced with real information.
+{% endhint %}

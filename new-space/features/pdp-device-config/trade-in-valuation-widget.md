@@ -1,3 +1,8 @@
+---
+layout:
+  width: wide
+---
+
 # Trade-In Valuation Widget Integration
 
 Interactive modal allowing customers to calculate their current device trade-in credit and see net cost before checkout.
@@ -5,10 +10,6 @@ Interactive modal allowing customers to calculate their current device trade-in 
 | Workstream / Domain | Audience Scope | Support Intake Channel | Minimum Theme Required |
 |---|---|---|---|
 | Features & Functionalities | All Global Partners | Wrike: Feature Support #APP-FEAT | v3.4.1 (Shopify) / Figma Kit v2026.3 |
-
-{% hint style="warning" %}
-**Placeholder content.** This page follows the partners' draft of the Knowledge Wiki. All data (versions, dates, metrics, contacts) is an example to be replaced with real information.
-{% endhint %}
 
 {% tabs %}
 
@@ -31,3 +32,7 @@ Introduced in Theme v3.4.1 as an optional merchandising module.
 {% endtab %}
 
 {% endtabs %}
+
+{% hint style="warning" %}
+**Placeholder content.** This page follows the partners' draft of the Knowledge Wiki. All data (versions, dates, metrics, contacts) is an example to be replaced with real information.
+{% endhint %}

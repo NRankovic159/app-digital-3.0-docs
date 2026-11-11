@@ -1,3 +1,8 @@
+---
+layout:
+  width: wide
+---
+
 # Version Explorer: What's New Since Your Release
 
 Filter, search, and analyze every commercial feature, CX design system component, and platform hotfix introduced between your current baseline and our latest release.
@@ -5,10 +10,6 @@ Filter, search, and analyze every commercial feature, CX design system component
 | Workstream / Domain | Audience Scope | Support Intake Channel | Minimum Theme Required |
 |---|---|---|---|
 | Release Governance & Diffs | Shopify Partners & CX-S Partners | Wrike: Upgrade Consultation Queue | v2.8.0 through v3.4.1 (Stable) |
-
-{% hint style="warning" %}
-**Placeholder content.** This page follows the partners' draft of the Knowledge Wiki. All data (versions, dates, metrics, contacts) is an example to be replaced with real information.
-{% endhint %}
 
 {% hint style="info" %}
 **How to use this Upgrade Hub:** Select your platform tab, then find your currently deployed baseline in the first column. Everything listed above it is the cumulative upgrade delta, which helps e-commerce leads build a business case and engineers estimate sprint scope.
@@ -62,3 +63,7 @@ Filter, search, and analyze every commercial feature, CX design system component
 {% endtab %}
 
 {% endtabs %}
+
+{% hint style="warning" %}
+**Placeholder content.** This page follows the partners' draft of the Knowledge Wiki. All data (versions, dates, metrics, contacts) is an example to be replaced with real information.
+{% endhint %}
