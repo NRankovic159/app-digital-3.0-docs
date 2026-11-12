@@ -1,9 +1,11 @@
 ---
 layout:
   width: wide
+  title:
+    visible: false
 ---
 
-# Apple Premium Partner Digital Hub
+![Apple Premium Partner Digital Hub](.gitbook/assets/hub-headline.svg)
 
 Official technical documentation, theme code releases, NPI launch protocols, CaaS integration specs and CX design systems for global Apple Premium Partner e-commerce operations.
 

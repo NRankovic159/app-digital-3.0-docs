@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🏠 Apple Premium Partner Digital Hub](README.md)
+* [🏠 Home](README.md)
 * [🔍 What's New in Version Explorer](whats-new.md)
 
 ## 1. Theme Releases & Cadence
