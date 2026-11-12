@@ -1,17 +1,15 @@
 ---
 layout:
   width: wide
-  title:
-    visible: false
 ---
 
-## Apple Premium Partner Digital Hub
+# Apple Premium Partner Digital Hub
 
 Official technical documentation, theme code releases, NPI launch protocols, CaaS integration specs and CX design systems for global Apple Premium Partner e-commerce operations.
 
 🟢 **Shopify Theme: v3.4.1 (Stable)** &nbsp;&nbsp; 🟣 **CX-S Figma Token Kit: v2026.3**
 
-[![Latest announcements and operational notices: NPI Protocol, Upcoming Spring Keynote NPI Readiness, Nov 04, 2026. Theme Release, Shopify Theme v3.4.1 Released, Oct 28, 2026. CaaS Update, CaaS API v2.2 Schema Deprecation, Oct 22, 2026.](.gitbook/assets/announcements.svg)](whats-new.md)
+![Latest announcements and operational notices: NPI Protocol, Upcoming Spring Keynote NPI Readiness, Nov 04, 2026. Theme Release, Shopify Theme v3.4.1 Released, Oct 28, 2026. CaaS Update, CaaS API v2.2 Schema Deprecation, Oct 22, 2026.](.gitbook/assets/announcements.svg)
 
 ## What's New Since Your Version
 
