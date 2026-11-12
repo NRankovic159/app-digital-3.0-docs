@@ -9,7 +9,7 @@ Official technical documentation, theme code releases, NPI launch protocols, Caa
 
 🟢 **Shopify Theme: v3.4.1 (Stable)** &nbsp;&nbsp; 🟣 **CX-S Figma Token Kit: v2026.3**
 
-![Latest announcements and operational notices: NPI Protocol, Upcoming Spring Keynote NPI Readiness, Nov 04, 2026. Theme Release, Shopify Theme v3.4.1 Released, Oct 28, 2026. CaaS Update, CaaS API v2.2 Schema Deprecation, Oct 22, 2026.](.gitbook/assets/announcements.svg)
+<a href="whats-new.md"><img src=".gitbook/assets/announcements.svg" alt="Latest announcements and operational notices: NPI Protocol, Upcoming Spring Keynote NPI Readiness, Nov 04, 2026. Theme Release, Shopify Theme v3.4.1 Released, Oct 28, 2026. CaaS Update, CaaS API v2.2 Schema Deprecation, Oct 22, 2026." width="100%"></a>
 
 ## What's New Since Your Version
 
