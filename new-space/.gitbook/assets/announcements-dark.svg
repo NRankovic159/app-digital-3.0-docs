@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="436" viewBox="0 0 1500 436" role="img" aria-label="Latest announcements and operational notices" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Text','Helvetica Neue',Helvetica,Arial,sans-serif">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f0c29"/><stop offset="1" stop-color="#1b1b57"/></linearGradient></defs>
+
+<text x="44" y="62" font-size="26" font-weight="800" letter-spacing="1.5" fill="#4da3ff">⚡ LATEST ANNOUNCEMENTS &amp; OPERATIONAL NOTICES</text>
+<text x="1464" y="62" font-size="22" text-anchor="end" fill="#aab0d0">Updated Today</text>
+<line x1="36" y1="86" x2="1464" y2="86" stroke="#3a3a3c" stroke-width="2"/>
+<rect x="36" y="102" width="222" height="38" rx="7" fill="#e11d48"/>
+<text x="147" y="128" font-size="20" font-weight="800" text-anchor="middle" fill="#ffffff">NPI PROTOCOL</text>
+<text x="300" y="132" font-size="25" fill="#ffffff" xml:space="preserve"><tspan font-weight="700">Upcoming </tspan><tspan font-weight="700">Spring </tspan><tspan font-weight="700">Keynote </tspan><tspan font-weight="700">NPI </tspan><tspan font-weight="700">Readiness: </tspan><tspan font-weight="400">All </tspan><tspan font-weight="400">partners </tspan><tspan font-weight="400">must </tspan><tspan font-weight="400">review </tspan><tspan font-weight="400">the </tspan></text>
+<text x="300" y="166" font-size="25" fill="#ffffff" xml:space="preserve"><tspan font-weight="400">zero-hour </tspan><tspan font-weight="400">embargo </tspan><tspan font-weight="400">asset </tspan><tspan font-weight="400">synchronization </tspan><tspan font-weight="400">checklist </tspan><tspan font-weight="400">by </tspan><tspan font-weight="400">Friday. </tspan></text>
+<text x="1464" y="132" font-size="22" text-anchor="end" fill="#c3c8e6">Nov 04, 2026</text>
+<line x1="36" y1="194" x2="1464" y2="194" stroke="#3a3a3c" stroke-width="2"/>
+<rect x="36" y="210" width="238" height="38" rx="7" fill="#0071e3"/>
+<text x="155" y="236" font-size="20" font-weight="800" text-anchor="middle" fill="#ffffff">THEME RELEASE</text>
+<text x="300" y="240" font-size="25" fill="#ffffff" xml:space="preserve"><tspan font-weight="700">Shopify </tspan><tspan font-weight="700">Theme </tspan><tspan font-weight="700">v3.4.1 </tspan><tspan font-weight="700">Released: </tspan><tspan font-weight="400">Includes </tspan><tspan font-weight="400">PDP </tspan><tspan font-weight="400">Apple </tspan><tspan font-weight="400">Care+ </tspan><tspan font-weight="400">bundling </tspan><tspan font-weight="400">selector, </tspan></text>
+<text x="300" y="274" font-size="25" fill="#ffffff" xml:space="preserve"><tspan font-weight="400">iOS </tspan><tspan font-weight="400">26 </tspan><tspan font-weight="400">Safari </tspan><tspan font-weight="400">WebKit </tspan><tspan font-weight="400">fixes, </tspan><tspan font-weight="400">and </tspan><tspan font-weight="400">Express </tspan><tspan font-weight="400">Pay </tspan><tspan font-weight="400">improvements. </tspan></text>
+<text x="1464" y="240" font-size="22" text-anchor="end" fill="#c3c8e6">Oct 28, 2026</text>
+<line x1="36" y1="302" x2="1464" y2="302" stroke="#3a3a3c" stroke-width="2"/>
+<rect x="36" y="318" width="206" height="38" rx="7" fill="#2e9e4f"/>
+<text x="139" y="344" font-size="20" font-weight="800" text-anchor="middle" fill="#ffffff">CAAS UPDATE</text>
+<text x="300" y="348" font-size="25" fill="#ffffff" xml:space="preserve"><tspan font-weight="700">CaaS </tspan><tspan font-weight="700">API </tspan><tspan font-weight="700">v2.2 </tspan><tspan font-weight="700">Schema </tspan><tspan font-weight="700">Deprecation: </tspan><tspan font-weight="400">Automated </tspan><tspan font-weight="400">product </tspan><tspan font-weight="400">feed </tspan><tspan font-weight="400">delta </tspan><tspan font-weight="400">pushes </tspan><tspan font-weight="400">will </tspan></text>
+<text x="300" y="382" font-size="25" fill="#ffffff" xml:space="preserve"><tspan font-weight="400">require </tspan><tspan font-weight="400">OAuth2 </tspan><tspan font-weight="400">Bearer </tspan><tspan font-weight="400">token </tspan><tspan font-weight="400">authentication </tspan><tspan font-weight="400">starting </tspan><tspan font-weight="400">Dec </tspan><tspan font-weight="400">1. </tspan></text>
+<text x="1464" y="348" font-size="22" text-anchor="end" fill="#c3c8e6">Oct 22, 2026</text>
+</svg>
